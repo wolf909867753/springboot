@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="runnerDesc:war">
+    <output-path>$PROJECT_DIR$/runnerDesc/target</output-path>
+    <root id="archive" name="runnerDesc.war">
+      <element id="artifact" artifact-name="runnerDesc:war exploded" />
+    </root>
+  </artifact>
+</component>

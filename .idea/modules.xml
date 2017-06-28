@@ -3,7 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/helloWorld/helloWorld.iml" filepath="$PROJECT_DIR$/helloWorld/helloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybaits/mybaits.iml" filepath="$PROJECT_DIR$/mybaits/mybaits.iml" />
       <module fileurl="file://$PROJECT_DIR$/properties/properties.iml" filepath="$PROJECT_DIR$/properties/properties.iml" />
+      <module fileurl="file://$PROJECT_DIR$/restful/restful.iml" filepath="$PROJECT_DIR$/restful/restful.iml" />
+      <module fileurl="file://$PROJECT_DIR$/runnerDesc/runnerDesc.iml" filepath="$PROJECT_DIR$/runnerDesc/runnerDesc.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot.iml" filepath="$PROJECT_DIR$/springboot.iml" />
     </modules>
   </component>

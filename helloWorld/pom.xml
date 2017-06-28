@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <artifactId>helloWorld</artifactId>
     <packaging>war</packaging>
-    <name>helloWorld Maven Webapp</name>
+    <name>springboot-helloWorld Demo</name>
     <url>http://maven.apache.org</url>
 
     <!-- Spring Boot 启动父依赖 -->

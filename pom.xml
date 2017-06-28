@@ -10,8 +10,10 @@
   <modules>
     <module>helloWorld</module>
     <module>properties</module>
+    <module>runnerDesc</module>
+    <module>restful</module>
+    <module>mybaits</module>
   </modules>
-
 
   <name>springboot Maven Webapp</name>
   <url>http://maven.apache.org</url>

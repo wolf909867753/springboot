@@ -1,5 +1,6 @@
 ######################如下流程所有代码请参考springboot工程内的代码######################
-1.HelloWorld  ------参考com.springboot.helloWorld此包下的code
+    注意：需在pom中引入spring-boot-starter-parent.jar及spring-boot-starter-web.jar
+1.HelloWorld
     1.1 创建com.springboot.helloWorld.HelloWorld.java
     1.2 测试类com.springboot.helloWorld.HelloWorldTest.java
     1.3 运行main方法,访问http://127.0.0.1:8080后页面输出Hello World!
@@ -53,33 +54,58 @@
        2-5-3.测试类
            com.springboot.properties.UserPropertiesTest.java
 
-       运行main方法,加载使用application.properties配置文件，输出以下结果：
-        UserProperties{id=null, age=0, desc='null', uuid='null'}
+           运行main方法,加载使用application.properties配置文件，输出以下结果：
+            UserProperties{id=null, age=0, desc='null', uuid='null'}
 
-3.多环境配置
-    很多场景的配置，比如数据库配置、Redis 配置、注册中心和日志配置等。在不同的环境，我们需要不同的包去运行项目。所以看项目结构，有两个环境的配置：
-    application-dev.properties：开发环境
-    application-prod.properties：生产环境
+        2-6.多环境配置
+            很多场景的配置，比如数据库配置、Redis 配置、注册中心和日志配置等。在不同的环境，我们需要不同的包去运行项目。所以看项目结构，有两个环境的配置：
+            application-dev.properties：开发环境
+            application-prod.properties：生产环境
 
-    Spring Boot 是通过 application.properties 文件中，设置 spring.profiles.active 属性，比如 ，配置了 dev ,则加载的是 application-dev.properties ：
-    # Spring Profiles Active
-    spring.profiles.active=dev
+            Spring Boot 是通过 application.properties 文件中，设置 spring.profiles.active 属性，比如 ，配置了 dev ,则加载的是 application-dev.properties ：
+            # Spring Profiles Active
+            spring.profiles.active=dev
 
-    那运行PropertiesTest应用启动类，从控制台中可以看出，是加载了 application-dev.properties 的属性输出：
-    HomeProperties{province='shang dong', city='wei fang', desc='[application-dev] i come from shang dong wei fang.'}
-    将 spring.profiles.active 设置成 prod，重新运行，可得到 application-pro.properties的属性输出：
-    HomeProperties{province='shang dong sheng', city='wei fang shi', desc='[application-pro] i come from shang dong sheng wei fang shi.'}
+            那运行PropertiesTest应用启动类，从控制台中可以看出，是加载了 application-dev.properties 的属性输出：
+            HomeProperties{province='shang dong', city='wei fang', desc='[application-dev] i come from shang dong wei fang.'}
+            将 spring.profiles.active 设置成 prod，重新运行，可得到 application-pro.properties的属性输出：
+            HomeProperties{province='shang dong sheng', city='wei fang shi', desc='[application-pro] i come from shang dong sheng wei fang shi.'}
 
-    根据优先级，顺便介绍下 jar 运行的方式，通过设置 -Dspring.profiles.active=pro 去指定相应的配置:
-    mvn package
-    java -jar -Dspring.profiles.active=prod springboot-properties-0.0.1-SNAPSHOT.jar
+            根据优先级，顺便介绍下 jar 运行的方式，通过设置 -Dspring.profiles.active=pro 去指定相应的配置:
+            mvn package
+            java -jar -Dspring.profiles.active=prod springboot-properties-0.0.1-SNAPSHOT.jar
 
+3. runnerDesc
+    Spring Boot 启动加载数据 CommandLineRunner 和ApplicationRunner
+    在实际应用中，我们会有在项目服务启动的时候就去加载一些数据或做一些事情这样的需求。
+    为了解决这样的问题，springboot为我们提供了一个方法，通过实现接口 CommandLineRunner 和ApplicationRunner来实现。
+    Springboot应用程序在启动后，会遍历CommandLineRunner接口的实例并运行它们的run方法。也可以利用@Order注解（或者实现Order接口）来规定所有CommandLineRunner实例的运行顺序。
+    根据控制台结果可判断，@Order 注解的执行优先级是按value值从小到大顺序。
 
+4.mybaits
+    4-1.在pom中引入mybatis和mysql的jar
+        org.mybatis.spring.boot.mybatis-spring-boot-starter-1.2.0.jar
+        mysql-connector-java.jar
 
+    4-2.创建表，参考springboot\mybaits\sql.sql
+    4-3.创建工程mybaits,添加配置文件resources\application.properties工程
+        目录如下：
+        com\springboot\domain\City.java
+        com\springboot\dao\CityDao.java
+        ##############mapper配置文件######################
+        resources\mapper\CityMapper.xml
+        ##############mapper配置文件######################
+        com\springboot\service\ICityService.java
+        com\springboot\service\impl\CityServiceImpl.java
+        com\springboot\controller\CityController.java
 
+        com\springboot\Application.java
+    4-4.运行Application.java的main方法或者发布到tomcat,
+        访问http://127.0.0.1:8080/city/query/%E6%BD%8D%E5%9D%8A%E5%B8%82,
+        输出
+            {"id":1,"provinceId":1,"cityName":"潍坊市","description":"我的家在山东省潍坊市。"}
 
-
-
+5.restful
 
 
 
