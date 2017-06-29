@@ -13,5 +13,5 @@ public interface CityDao {
      *
      * @param cityName 城市名
      */
-    City queryByName(@Param("cityName") String cityName);
+    public City queryByName(@Param("cityName") String cityName);
 }

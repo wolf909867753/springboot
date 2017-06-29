@@ -6,6 +6,8 @@
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/helloWorld" />
     <file type="web" url="file://$PROJECT_DIR$/mybaits" />
+    <file type="web" url="file://$PROJECT_DIR$/mybatis-annotation" />
+    <file type="web" url="file://$PROJECT_DIR$/mybatis-mutil-datasource" />
     <file type="web" url="file://$PROJECT_DIR$/properties" />
     <file type="web" url="file://$PROJECT_DIR$/restful" />
     <file type="web" url="file://$PROJECT_DIR$/runnerDesc" />

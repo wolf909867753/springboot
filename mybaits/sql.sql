@@ -1,5 +1,5 @@
 CREATE DATABASE springbootdb;
-
+use springbootdb;
 CREATE TABLE `city` (
   `id` int(10) unsigned NOT NULL AUTO_INCREMENT COMMENT '城市编号',
   `province_id` int(10) unsigned  NOT NULL COMMENT '省份编号',

@@ -24,6 +24,8 @@
         <processorPath useClasspath="true" />
         <module name="helloWorld" />
         <module name="mybaits" />
+        <module name="mybatis-annotation" />
+        <module name="mybatis-mutil-datasource" />
         <module name="properties" />
         <module name="restful" />
         <module name="runnerDesc" />
@@ -32,6 +34,8 @@
     <bytecodeTargetLevel>
       <module name="helloWorld" target="1.7" />
       <module name="mybaits" target="1.7" />
+      <module name="mybatis-annotation" target="1.7" />
+      <module name="mybatis-mutil-datasource" target="1.7" />
       <module name="properties" target="1.7" />
       <module name="restful" target="1.7" />
       <module name="runnerDesc" target="1.7" />

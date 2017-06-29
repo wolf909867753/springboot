@@ -13,6 +13,8 @@
     <module>runnerDesc</module>
     <module>restful</module>
     <module>mybaits</module>
+    <module>mybatis-annotation</module>
+      <module>mybatis-mutil-datasource</module>
   </modules>
 
   <name>springboot Maven Webapp</name>

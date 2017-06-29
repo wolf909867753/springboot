@@ -82,7 +82,7 @@
     Springboot应用程序在启动后，会遍历CommandLineRunner接口的实例并运行它们的run方法。也可以利用@Order注解（或者实现Order接口）来规定所有CommandLineRunner实例的运行顺序。
     根据控制台结果可判断，@Order 注解的执行优先级是按value值从小到大顺序。
 
-4.mybaits
+4.mybaits(非注解方式)
     4-1.在pom中引入mybatis和mysql的jar
         org.mybatis.spring.boot.mybatis-spring-boot-starter-1.2.0.jar
         mysql-connector-java.jar
@@ -105,7 +105,51 @@
         输出
             {"id":1,"provinceId":1,"cityName":"潍坊市","description":"我的家在山东省潍坊市。"}
 
-5.restful
+5.mybatis-annotation(注解方式)
+    与上边非注解方式流程相同，只不过dao才用注解形式，参考com\springboot\dao\CityDao.java
+    application.properties去掉了mybatis的相关配置
+
+6.mybatis-mutil-datasource
+    Spring Boot整合Mybatis实现Druid多数据源
+    sql参考工程目录下的sql.sql
+    6-1.项目结构介绍
+        com.springboot.config.ds – 配置层，这里是数据源的配置，包括 master 和 cluster 的数据源配置
+        com.springboot.controller – Controller 层
+        com.springboot.dao – 数据操作层 DAO，细分了 master 和 cluster 包下的 DAO 操作类
+        com.springboot.domain – 实体类
+        com.springboot.service – 业务逻辑层
+        Application – 应用启动类
+        application.properties – 应用配置文件，应用启动会自动读取配置
+    6-2.改数据库配置
+        打开 application.properties 文件，配置主从数据源地址、账号、密码等。
+    6-3.运行Application的main方法，启动成功后
+        访问http://127.0.0.1:8080/user/query/1
+        输出
+        {"id":1,"userName":"wolf","description":"https://github.com/wolf909867753/springboot","city":{"id":1,"provinceId":1,"cityName":"潍坊市","description":"我的家在山东省潍坊市。"}}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.restful
 
 
 
