@@ -6,16 +6,36 @@
         <groupId>org.springframework.boot</groupId>
         <version>1.5.1.RELEASE</version>
     </parent>
+
+
     <modelVersion>4.0.0</modelVersion>
     <artifactId>restful</artifactId>
     <packaging>war</packaging>
     <name>springboot-restful :: Springboot 实现 Restful 服务，基于 HTTP / JSON 传输 Demo</name>
     <url>http://maven.apache.org</url>
+
+    <properties>
+        <mysql-spring-boot>5.1.32</mysql-spring-boot>
+        <mybatis-spring-boot>1.2.0</mybatis-spring-boot>
+    </properties>
+
     <dependencies>
 
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-web</artifactId>
+        </dependency>
+
+        <dependency>
+            <groupId>mysql</groupId>
+            <artifactId>mysql-connector-java</artifactId>
+            <version>${mysql-spring-boot}</version>
+        </dependency>
+
+        <dependency>
+            <groupId>org.mybatis.spring.boot</groupId>
+            <artifactId>mybatis-spring-boot-starter</artifactId>
+            <version>${mybatis-spring-boot}</version>
         </dependency>
 
         <dependency>
