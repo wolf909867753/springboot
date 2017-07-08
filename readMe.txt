@@ -113,7 +113,7 @@
     Spring Boot整合Mybatis实现Druid多数据源
     sql参考工程目录下的sql.sql
     6-1.项目结构介绍
-        com.springboot.dataSourceConfig – 配置层，这里是数据源的配置，包括 master 和 cluster 的数据源配置
+        com.springboot.config.ds – 配置层，这里是数据源的配置，包括 master 和 cluster 的数据源配置
         com.springboot.controller – Controller 层
         com.springboot.dao – 数据操作层 DAO，细分了 master 和 cluster 包下的 DAO 操作类
         com.springboot.domain – 实体类
@@ -128,6 +128,28 @@
         {"id":1,"userName":"wolf","description":"https://github.com/wolf909867753/springboot","city":{"id":1,"provinceId":1,"cityName":"潍坊市","description":"我的家在山东省潍坊市。"}}
 
 7.restful
+    Springboot 实现 Restful 服务
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.restful
 
 
 
