@@ -4,6 +4,7 @@
     <entry_points version="2.0" />
   </component>
   <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/freemarker" />
     <file type="web" url="file://$PROJECT_DIR$/helloWorld" />
     <file type="web" url="file://$PROJECT_DIR$/mybaits" />
     <file type="web" url="file://$PROJECT_DIR$/mybatis-annotation" />
@@ -11,12 +12,20 @@
     <file type="web" url="file://$PROJECT_DIR$/properties" />
     <file type="web" url="file://$PROJECT_DIR$/restful" />
     <file type="web" url="file://$PROJECT_DIR$/runnerDesc" />
+    <file type="web" url="file://$PROJECT_DIR$/shiro" />
+    <file type="web" url="file://$PROJECT_DIR$/springboot-freemarker" />
+    <file type="web" url="file://$PROJECT_DIR$/validation-over-json" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/freemarker/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" assert-keyword="true" jdk-15="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">

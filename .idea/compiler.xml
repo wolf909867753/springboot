@@ -29,9 +29,13 @@
         <module name="properties" />
         <module name="restful" />
         <module name="runnerDesc" />
+        <module name="shiro" />
+        <module name="springboot-freemarker" />
+        <module name="validation-over-json" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="freemarker" target="1.7" />
       <module name="helloWorld" target="1.7" />
       <module name="mybaits" target="1.7" />
       <module name="mybatis-annotation" target="1.7" />
@@ -39,7 +43,10 @@
       <module name="properties" target="1.7" />
       <module name="restful" target="1.7" />
       <module name="runnerDesc" target="1.7" />
+      <module name="shiro" target="1.7" />
       <module name="springboot" target="1.7" />
+      <module name="springboot-freemarker" target="1.7" />
+      <module name="validation-over-json" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>

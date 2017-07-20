@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="validation-over-json:war">
+    <output-path>$PROJECT_DIR$/validation-over-json/target</output-path>
+    <root id="archive" name="validation-over-json.war">
+      <element id="artifact" artifact-name="validation-over-json:war exploded" />
+    </root>
+  </artifact>
+</component>

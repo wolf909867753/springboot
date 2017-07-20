@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/freemarker/freemarker.iml" filepath="$PROJECT_DIR$/freemarker/freemarker.iml" />
       <module fileurl="file://$PROJECT_DIR$/helloWorld/helloWorld.iml" filepath="$PROJECT_DIR$/helloWorld/helloWorld.iml" />
       <module fileurl="file://$PROJECT_DIR$/mybaits/mybaits.iml" filepath="$PROJECT_DIR$/mybaits/mybaits.iml" />
       <module fileurl="file://$PROJECT_DIR$/mybatis-annotation/mybatis-annotation.iml" filepath="$PROJECT_DIR$/mybatis-annotation/mybatis-annotation.iml" />
@@ -10,6 +11,8 @@
       <module fileurl="file://$PROJECT_DIR$/restful/restful.iml" filepath="$PROJECT_DIR$/restful/restful.iml" />
       <module fileurl="file://$PROJECT_DIR$/runnerDesc/runnerDesc.iml" filepath="$PROJECT_DIR$/runnerDesc/runnerDesc.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot.iml" filepath="$PROJECT_DIR$/springboot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-freemarker/springboot-freemarker.iml" filepath="$PROJECT_DIR$/springboot-freemarker/springboot-freemarker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/validation-over-json/validation-over-json.iml" filepath="$PROJECT_DIR$/validation-over-json/validation-over-json.iml" />
     </modules>
   </component>
 </project>
