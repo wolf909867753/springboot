@@ -27,6 +27,7 @@
         <module name="mybatis-annotation" />
         <module name="mybatis-mutil-datasource" />
         <module name="properties" />
+        <module name="redis" />
         <module name="restful" />
         <module name="runnerDesc" />
         <module name="shiro" />
@@ -41,6 +42,7 @@
       <module name="mybatis-annotation" target="1.7" />
       <module name="mybatis-mutil-datasource" target="1.7" />
       <module name="properties" target="1.7" />
+      <module name="redis" target="1.7" />
       <module name="restful" target="1.7" />
       <module name="runnerDesc" target="1.7" />
       <module name="shiro" target="1.7" />

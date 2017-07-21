@@ -2,378 +2,44 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b45a0376-1fd7-4fd9-a992-a4ef8bdcd422" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springboot-freemarker/target/classes/com/springboot/Application.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springboot-freemarker/target/classes/com/springboot/controller/CityController.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springboot-freemarker/target/classes/com/springboot/dao/CityDao.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springboot-freemarker/target/classes/com/springboot/domain/City.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springboot-freemarker/target/classes/com/springboot/service/ICityService.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springboot-freemarker/target/classes/com/springboot/service/impl/CityServiceImpl.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springboot-freemarker/target/springboot-freemarker/WEB-INF/classes/com/springboot/Application.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springboot-freemarker/target/springboot-freemarker/WEB-INF/classes/com/springboot/controller/CityController.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springboot-freemarker/target/springboot-freemarker/WEB-INF/classes/com/springboot/dao/CityDao.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springboot-freemarker/target/springboot-freemarker/WEB-INF/classes/com/springboot/domain/City.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springboot-freemarker/target/springboot-freemarker/WEB-INF/classes/com/springboot/service/ICityService.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springboot-freemarker/target/springboot-freemarker/WEB-INF/classes/com/springboot/service/impl/CityServiceImpl.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springboot-freemarker/target/springboot-freemarker/WEB-INF/lib/freemarker-2.3.25-incubating.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springboot-freemarker/target/springboot-freemarker/WEB-INF/lib/hamcrest-core-1.3.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springboot-freemarker/target/springboot-freemarker/WEB-INF/lib/junit-4.12.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springboot-freemarker/target/springboot-freemarker/WEB-INF/lib/mysql-connector-java-5.1.39.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springboot-freemarker/target/springboot-freemarker/WEB-INF/lib/spring-boot-starter-freemarker-1.5.1.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springboot-freemarker/target/springboot-freemarker/WEB-INF/lib/spring-context-support-4.3.6.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/validation-over-json/target/classes/com/springboot/Applicaiton.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/validation-over-json/target/classes/com/springboot/biz/ICityBiz.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/validation-over-json/target/classes/com/springboot/biz/impl/CityBizImpl.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/validation-over-json/target/classes/com/springboot/controller/CityController.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/validation-over-json/target/classes/com/springboot/dao/ICityDao.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/validation-over-json/target/classes/com/springboot/domain/po/City.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/validation-over-json/target/classes/com/springboot/domain/vo/ResultMsg.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/validation-over-json/target/classes/com/springboot/service/ICityService.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/validation-over-json/target/classes/com/springboot/service/impl/CityServiceImpl.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/validation-over-json/target/classes/com/springboot/utils/customException/CustomerException.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/validation-over-json/target/classes/com/springboot/utils/customException/ExceptionEnum.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/validation-over-json/target/classes/com/springboot/utils/customException/ExceptionHandler.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/validation-over-json/target/classes/com/springboot/utils/customException/ResultMsg.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/validation-over-json/target/classes/com/springboot/utils/exceptions/CityErrorInfoEnum.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/validation-over-json/target/classes/com/springboot/utils/exceptions/ErrorInfoInterface.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/validation-over-json/target/classes/com/springboot/utils/exceptions/ExceptionEnum.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/validation-over-json/target/classes/com/springboot/utils/exceptions/GlobalErrorInfoException.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/validation-over-json/target/classes/com/springboot/utils/exceptions/GlobalErrorInfoHandler.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/validation-over-json/target/validation-over-json/WEB-INF/classes/com/springboot/Applicaiton.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/validation-over-json/target/validation-over-json/WEB-INF/classes/com/springboot/biz/ICityBiz.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/validation-over-json/target/validation-over-json/WEB-INF/classes/com/springboot/biz/impl/CityBizImpl.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/validation-over-json/target/validation-over-json/WEB-INF/classes/com/springboot/controller/CityController.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/validation-over-json/target/validation-over-json/WEB-INF/classes/com/springboot/dao/ICityDao.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/validation-over-json/target/validation-over-json/WEB-INF/classes/com/springboot/domain/po/City.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/validation-over-json/target/validation-over-json/WEB-INF/classes/com/springboot/domain/vo/ResultMsg.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/validation-over-json/target/validation-over-json/WEB-INF/classes/com/springboot/service/ICityService.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/validation-over-json/target/validation-over-json/WEB-INF/classes/com/springboot/service/impl/CityServiceImpl.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/validation-over-json/target/validation-over-json/WEB-INF/classes/com/springboot/utils/customException/CustomerException.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/validation-over-json/target/validation-over-json/WEB-INF/classes/com/springboot/utils/customException/ExceptionEnum.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/validation-over-json/target/validation-over-json/WEB-INF/classes/com/springboot/utils/customException/ExceptionHandler.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/validation-over-json/target/validation-over-json/WEB-INF/classes/com/springboot/utils/customException/ResultMsg.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/validation-over-json/target/validation-over-json/WEB-INF/classes/com/springboot/utils/exceptions/CityErrorInfoEnum.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/validation-over-json/target/validation-over-json/WEB-INF/classes/com/springboot/utils/exceptions/ErrorInfoInterface.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/validation-over-json/target/validation-over-json/WEB-INF/classes/com/springboot/utils/exceptions/ExceptionEnum.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/validation-over-json/target/validation-over-json/WEB-INF/classes/com/springboot/utils/exceptions/GlobalErrorInfoException.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/validation-over-json/target/validation-over-json/WEB-INF/classes/com/springboot/utils/exceptions/GlobalErrorInfoHandler.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/validation-over-json/target/validation-over-json/WEB-INF/lib/freemarker-2.3.25-incubating.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/validation-over-json/target/validation-over-json/WEB-INF/lib/mybatis-3.4.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/validation-over-json/target/validation-over-json/WEB-INF/lib/mybatis-spring-1.3.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/validation-over-json/target/validation-over-json/WEB-INF/lib/mybatis-spring-boot-autoconfigure-1.2.0.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/validation-over-json/target/validation-over-json/WEB-INF/lib/mybatis-spring-boot-starter-1.2.0.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/validation-over-json/target/validation-over-json/WEB-INF/lib/mysql-connector-java-5.1.39.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/validation-over-json/target/validation-over-json/WEB-INF/lib/spring-boot-starter-freemarker-1.5.1.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/validation-over-json/target/validation-over-json/WEB-INF/lib/spring-boot-starter-jdbc-1.5.1.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/validation-over-json/target/validation-over-json/WEB-INF/lib/spring-context-support-4.3.6.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/validation-over-json/target/validation-over-json/WEB-INF/lib/spring-jdbc-4.3.6.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/validation-over-json/target/validation-over-json/WEB-INF/lib/spring-tx-4.3.6.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/validation-over-json/target/validation-over-json/WEB-INF/lib/tomcat-jdbc-8.5.11.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/validation-over-json/target/validation-over-json/WEB-INF/lib/tomcat-juli-8.5.11.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/shiro_war.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/shiro_war_exploded.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/springboot_freemarker_war.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/springboot_freemarker_war_exploded.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/validation_over_json_war.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/validation_over_json_war_exploded.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_2_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_2_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_2_6_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_freemarker_freemarker_2_3_25_incubating.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_1_10_19.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_4_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_freemarker_1_5_1_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_1_5_1_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_1_5_1_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_1_5_1_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_4_3_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_4_3_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springboot-freemarker/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springboot-freemarker/springboot-freemarker.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springboot-freemarker/src/main/java/com/springboot/Application.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springboot-freemarker/src/main/java/com/springboot/controller/CityController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springboot-freemarker/src/main/java/com/springboot/dao/CityDao.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springboot-freemarker/src/main/java/com/springboot/domain/City.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springboot-freemarker/src/main/java/com/springboot/service/ICityService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springboot-freemarker/src/main/java/com/springboot/service/impl/CityServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springboot-freemarker/src/main/resources/application.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springboot-freemarker/src/main/resources/mapper/CityMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springboot-freemarker/src/main/resources/web/city.ftl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springboot-freemarker/src/main/resources/web/cityList.ftl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springboot-freemarker/src/main/webapp/WEB-INF/jsps/index.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springboot-freemarker/src/main/webapp/index.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springboot-freemarker/target/classes/application.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springboot-freemarker/target/classes/mapper/CityMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springboot-freemarker/target/classes/web/city.ftl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springboot-freemarker/target/classes/web/cityList.ftl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springboot-freemarker/target/springboot-freemarker/WEB-INF/classes/application.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springboot-freemarker/target/springboot-freemarker/WEB-INF/classes/mapper/CityMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springboot-freemarker/target/springboot-freemarker/WEB-INF/classes/web/city.ftl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springboot-freemarker/target/springboot-freemarker/WEB-INF/classes/web/cityList.ftl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springboot-freemarker/target/springboot-freemarker/WEB-INF/jsps/index.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springboot-freemarker/target/springboot-freemarker/index.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/validation-over-json/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/validation-over-json/src/main/java/com/springboot/Applicaiton.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/validation-over-json/src/main/java/com/springboot/biz/ICityBiz.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/validation-over-json/src/main/java/com/springboot/biz/impl/CityBizImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/validation-over-json/src/main/java/com/springboot/controller/CityController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/validation-over-json/src/main/java/com/springboot/dao/ICityDao.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/validation-over-json/src/main/java/com/springboot/domain/po/City.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/validation-over-json/src/main/java/com/springboot/domain/vo/ResultMsg.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/validation-over-json/src/main/java/com/springboot/service/ICityService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/validation-over-json/src/main/java/com/springboot/service/impl/CityServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/validation-over-json/src/main/java/com/springboot/utils/customException/CustomerException.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/validation-over-json/src/main/java/com/springboot/utils/customException/ExceptionEnum.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/validation-over-json/src/main/java/com/springboot/utils/customException/ExceptionHandler.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/validation-over-json/src/main/java/com/springboot/utils/customException/ResultMsg.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/validation-over-json/src/main/java/com/springboot/utils/exceptions/CityErrorInfoEnum.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/validation-over-json/src/main/java/com/springboot/utils/exceptions/ErrorInfoInterface.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/validation-over-json/src/main/java/com/springboot/utils/exceptions/ExceptionEnum.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/validation-over-json/src/main/java/com/springboot/utils/exceptions/GlobalErrorInfoException.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/validation-over-json/src/main/java/com/springboot/utils/exceptions/GlobalErrorInfoHandler.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/validation-over-json/src/main/resources/application.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/validation-over-json/src/main/resources/mapper/CityMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/validation-over-json/src/main/resources/web/city.ftl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/validation-over-json/src/main/webapp/WEB-INF/jsps/City.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/validation-over-json/src/main/webapp/index.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/validation-over-json/src/main/webapp/js/jquery-1.11.2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/validation-over-json/target/classes/application.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/validation-over-json/target/classes/mapper/CityMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/validation-over-json/target/classes/web/city.ftl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/validation-over-json/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/validation-over-json/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/validation-over-json/target/validation-over-json/META-INF/MANIFEST.MF" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/validation-over-json/target/validation-over-json/WEB-INF/classes/application.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/validation-over-json/target/validation-over-json/WEB-INF/classes/mapper/CityMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/validation-over-json/target/validation-over-json/WEB-INF/classes/web/city.ftl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/validation-over-json/target/validation-over-json/WEB-INF/jsps/City.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/validation-over-json/target/validation-over-json/index.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/validation-over-json/target/validation-over-json/js/jquery-1.11.2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/validation-over-json/validation-over-json.iml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/helloWorld/target/helloWorld.war" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/helloWorld/target/helloWorld/WEB-INF/classes/com/springboot/HelloWorld.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/helloWorld/target/helloWorld/index.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/helloWorld/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/helloWorld/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/helloWorld/target/test-classes/com/springboot/HelloWorldTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mybatis-annotation/target/maven-archiver/pom.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mybatis-annotation/target/mybatis-annotation/WEB-INF/lib/mysql-connector-java-5.1.32.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mybatis-annotation/target/mybatis-annotation/index.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/properties/target/maven-archiver/pom.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/properties/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/properties/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/properties/target/properties.war" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/properties/target/properties/WEB-INF/classes/com/springboot/HomeProperties.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/properties/target/properties/WEB-INF/classes/com/springboot/HomePropertiesYML.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/properties/target/properties/WEB-INF/classes/com/springboot/Random.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/properties/target/properties/WEB-INF/classes/com/springboot/UserProperties.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/properties/target/properties/WEB-INF/lib/classmate-1.3.3.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/properties/target/properties/WEB-INF/lib/hibernate-validator-5.3.4.Final.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/properties/target/properties/WEB-INF/lib/jackson-annotations-2.8.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/properties/target/properties/WEB-INF/lib/jackson-core-2.8.6.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/properties/target/properties/WEB-INF/lib/jackson-databind-2.8.6.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/properties/target/properties/WEB-INF/lib/jboss-logging-3.3.0.Final.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/properties/target/properties/WEB-INF/lib/jcl-over-slf4j-1.7.22.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/properties/target/properties/WEB-INF/lib/jul-to-slf4j-1.7.22.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/properties/target/properties/WEB-INF/lib/log4j-over-slf4j-1.7.22.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/properties/target/properties/WEB-INF/lib/logback-classic-1.1.9.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/properties/target/properties/WEB-INF/lib/logback-core-1.1.9.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/properties/target/properties/WEB-INF/lib/slf4j-api-1.7.22.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/properties/target/properties/WEB-INF/lib/snakeyaml-1.17.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/properties/target/properties/WEB-INF/lib/spring-aop-4.3.6.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/properties/target/properties/WEB-INF/lib/spring-beans-4.3.6.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/properties/target/properties/WEB-INF/lib/spring-boot-1.5.1.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/properties/target/properties/WEB-INF/lib/spring-boot-autoconfigure-1.5.1.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/properties/target/properties/WEB-INF/lib/spring-boot-starter-1.5.1.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/properties/target/properties/WEB-INF/lib/spring-boot-starter-logging-1.5.1.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/properties/target/properties/WEB-INF/lib/spring-boot-starter-tomcat-1.5.1.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/properties/target/properties/WEB-INF/lib/spring-boot-starter-web-1.5.1.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/properties/target/properties/WEB-INF/lib/spring-context-4.3.6.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/properties/target/properties/WEB-INF/lib/spring-core-4.3.6.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/properties/target/properties/WEB-INF/lib/spring-expression-4.3.6.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/properties/target/properties/WEB-INF/lib/spring-web-4.3.6.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/properties/target/properties/WEB-INF/lib/spring-webmvc-4.3.6.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/properties/target/properties/WEB-INF/lib/tomcat-embed-core-8.5.11.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/properties/target/properties/WEB-INF/lib/tomcat-embed-el-8.5.11.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/properties/target/properties/WEB-INF/lib/tomcat-embed-websocket-8.5.11.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/properties/target/properties/WEB-INF/lib/validation-api-1.1.0.Final.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/properties/target/properties/index.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/properties/target/test-classes/com/springboot/PropertiesTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/properties/target/test-classes/com/springboot/UserPropertiesTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/properties/target/test-classes/com/springboot/YMLpropertiesTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/runnerDesc/target/runnerDesc/WEB-INF/classes/TestImplApplicationRunner.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/runnerDesc/target/runnerDesc/WEB-INF/classes/TestImplCommandLineRunner.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/runnerDesc/target/runnerDesc/WEB-INF/classes/application-dev.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/runnerDesc/target/runnerDesc/WEB-INF/classes/application-pro.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/runnerDesc/target/runnerDesc/WEB-INF/classes/application.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/runnerDesc/target/runnerDesc/WEB-INF/classes/application.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/runnerDesc/target/runnerDesc/WEB-INF/lib/classmate-1.3.3.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/runnerDesc/target/runnerDesc/WEB-INF/lib/hibernate-validator-5.3.4.Final.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/runnerDesc/target/runnerDesc/WEB-INF/lib/jackson-annotations-2.8.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/runnerDesc/target/runnerDesc/WEB-INF/lib/jackson-core-2.8.6.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/runnerDesc/target/runnerDesc/WEB-INF/lib/jackson-databind-2.8.6.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/runnerDesc/target/runnerDesc/WEB-INF/lib/jboss-logging-3.3.0.Final.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/runnerDesc/target/runnerDesc/WEB-INF/lib/jcl-over-slf4j-1.7.22.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/runnerDesc/target/runnerDesc/WEB-INF/lib/jul-to-slf4j-1.7.22.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/runnerDesc/target/runnerDesc/WEB-INF/lib/log4j-over-slf4j-1.7.22.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/runnerDesc/target/runnerDesc/WEB-INF/lib/logback-classic-1.1.9.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/runnerDesc/target/runnerDesc/WEB-INF/lib/logback-core-1.1.9.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/runnerDesc/target/runnerDesc/WEB-INF/lib/slf4j-api-1.7.22.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/runnerDesc/target/runnerDesc/WEB-INF/lib/snakeyaml-1.17.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/runnerDesc/target/runnerDesc/WEB-INF/lib/spring-aop-4.3.6.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/runnerDesc/target/runnerDesc/WEB-INF/lib/spring-beans-4.3.6.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/runnerDesc/target/runnerDesc/WEB-INF/lib/spring-boot-1.5.1.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/runnerDesc/target/runnerDesc/WEB-INF/lib/spring-boot-autoconfigure-1.5.1.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/runnerDesc/target/runnerDesc/WEB-INF/lib/spring-boot-starter-1.5.1.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/runnerDesc/target/runnerDesc/WEB-INF/lib/spring-boot-starter-logging-1.5.1.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/runnerDesc/target/runnerDesc/WEB-INF/lib/spring-boot-starter-tomcat-1.5.1.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/runnerDesc/target/runnerDesc/WEB-INF/lib/spring-boot-starter-web-1.5.1.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/runnerDesc/target/runnerDesc/WEB-INF/lib/spring-context-4.3.6.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/runnerDesc/target/runnerDesc/WEB-INF/lib/spring-core-4.3.6.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/runnerDesc/target/runnerDesc/WEB-INF/lib/spring-expression-4.3.6.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/runnerDesc/target/runnerDesc/WEB-INF/lib/spring-web-4.3.6.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/runnerDesc/target/runnerDesc/WEB-INF/lib/spring-webmvc-4.3.6.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/runnerDesc/target/runnerDesc/WEB-INF/lib/tomcat-embed-core-8.5.11.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/runnerDesc/target/runnerDesc/WEB-INF/lib/tomcat-embed-el-8.5.11.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/runnerDesc/target/runnerDesc/WEB-INF/lib/tomcat-embed-websocket-8.5.11.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/runnerDesc/target/runnerDesc/WEB-INF/lib/validation-api-1.1.0.Final.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/runnerDesc/target/runnerDesc/index.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/runnerDesc/target/test-classes/com/TestThread.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/runnerDesc/target/test-classes/com/TestThread02.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/helloWorld/target/classes/com/springboot/HelloWorld.class" afterPath="$PROJECT_DIR$/helloWorld/target/classes/com/springboot/HelloWorld.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mybaits/target/classes/com/springboot/Application.class" afterPath="$PROJECT_DIR$/mybaits/target/classes/com/springboot/Application.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mybaits/target/classes/com/springboot/controller/CityController.class" afterPath="$PROJECT_DIR$/mybaits/target/classes/com/springboot/controller/CityController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mybaits/target/classes/com/springboot/dao/CityDao.class" afterPath="$PROJECT_DIR$/mybaits/target/classes/com/springboot/dao/CityDao.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mybaits/target/classes/com/springboot/domain/City.class" afterPath="$PROJECT_DIR$/mybaits/target/classes/com/springboot/domain/City.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mybaits/target/classes/com/springboot/service/ICityService.class" afterPath="$PROJECT_DIR$/mybaits/target/classes/com/springboot/service/ICityService.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mybaits/target/classes/com/springboot/service/impl/CityServiceImpl.class" afterPath="$PROJECT_DIR$/mybaits/target/classes/com/springboot/service/impl/CityServiceImpl.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mybatis-annotation/target/classes/com/springboot/Application.class" afterPath="$PROJECT_DIR$/mybatis-annotation/target/classes/com/springboot/Application.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mybatis-annotation/target/classes/com/springboot/controller/CityController.class" afterPath="$PROJECT_DIR$/mybatis-annotation/target/classes/com/springboot/controller/CityController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mybatis-annotation/target/classes/com/springboot/dao/CityDao.class" afterPath="$PROJECT_DIR$/mybatis-annotation/target/classes/com/springboot/dao/CityDao.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mybatis-annotation/target/classes/com/springboot/domain/City.class" afterPath="$PROJECT_DIR$/mybatis-annotation/target/classes/com/springboot/domain/City.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mybatis-annotation/target/classes/com/springboot/service/ICityService.class" afterPath="$PROJECT_DIR$/mybatis-annotation/target/classes/com/springboot/service/ICityService.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mybatis-annotation/target/classes/com/springboot/service/impl/CityServiceImpl.class" afterPath="$PROJECT_DIR$/mybatis-annotation/target/classes/com/springboot/service/impl/CityServiceImpl.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mybatis-mutil-datasource/target/classes/com/springboot/Application.class" afterPath="$PROJECT_DIR$/mybatis-mutil-datasource/target/classes/com/springboot/Application.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mybatis-mutil-datasource/target/classes/com/springboot/controller/UserController.class" afterPath="$PROJECT_DIR$/mybatis-mutil-datasource/target/classes/com/springboot/controller/UserController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mybatis-mutil-datasource/target/classes/com/springboot/dao/cluster/IUserDao.class" afterPath="$PROJECT_DIR$/mybatis-mutil-datasource/target/classes/com/springboot/dao/cluster/IUserDao.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mybatis-mutil-datasource/target/classes/com/springboot/dao/master/ICityDao.class" afterPath="$PROJECT_DIR$/mybatis-mutil-datasource/target/classes/com/springboot/dao/master/ICityDao.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mybatis-mutil-datasource/target/classes/com/springboot/dataSourceConfig/ClusterConfig.class" afterPath="$PROJECT_DIR$/mybatis-mutil-datasource/target/classes/com/springboot/dataSourceConfig/ClusterConfig.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mybatis-mutil-datasource/target/classes/com/springboot/dataSourceConfig/MasterConfig.class" afterPath="$PROJECT_DIR$/mybatis-mutil-datasource/target/classes/com/springboot/dataSourceConfig/MasterConfig.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mybatis-mutil-datasource/target/classes/com/springboot/domain/City.class" afterPath="$PROJECT_DIR$/mybatis-mutil-datasource/target/classes/com/springboot/domain/City.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mybatis-mutil-datasource/target/classes/com/springboot/domain/User.class" afterPath="$PROJECT_DIR$/mybatis-mutil-datasource/target/classes/com/springboot/domain/User.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mybatis-mutil-datasource/target/classes/com/springboot/service/IUserService.class" afterPath="$PROJECT_DIR$/mybatis-mutil-datasource/target/classes/com/springboot/service/IUserService.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mybatis-mutil-datasource/target/classes/com/springboot/service/impl/UserServiceImpl.class" afterPath="$PROJECT_DIR$/mybatis-mutil-datasource/target/classes/com/springboot/service/impl/UserServiceImpl.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/properties/target/classes/com/springboot/HomeProperties.class" afterPath="$PROJECT_DIR$/properties/target/classes/com/springboot/HomeProperties.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/properties/target/classes/com/springboot/HomePropertiesYML.class" afterPath="$PROJECT_DIR$/properties/target/classes/com/springboot/HomePropertiesYML.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/properties/target/classes/com/springboot/Random.class" afterPath="$PROJECT_DIR$/properties/target/classes/com/springboot/Random.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/properties/target/classes/com/springboot/UserProperties.class" afterPath="$PROJECT_DIR$/properties/target/classes/com/springboot/UserProperties.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/restful/target/classes/com/springboot/Application.class" afterPath="$PROJECT_DIR$/restful/target/classes/com/springboot/Application.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/restful/target/classes/com/springboot/controller/CityController.class" afterPath="$PROJECT_DIR$/restful/target/classes/com/springboot/controller/CityController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/restful/target/classes/com/springboot/dao/CityDao.class" afterPath="$PROJECT_DIR$/restful/target/classes/com/springboot/dao/CityDao.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/restful/target/classes/com/springboot/domain/City.class" afterPath="$PROJECT_DIR$/restful/target/classes/com/springboot/domain/City.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/restful/target/classes/com/springboot/service/ICityService.class" afterPath="$PROJECT_DIR$/restful/target/classes/com/springboot/service/ICityService.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/restful/target/classes/com/springboot/service/impl/CityServiceImpl.class" afterPath="$PROJECT_DIR$/restful/target/classes/com/springboot/service/impl/CityServiceImpl.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/runnerDesc/target/classes/TestImplApplicationRunner.class" afterPath="$PROJECT_DIR$/runnerDesc/target/classes/TestImplApplicationRunner.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/restful_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/restful_war_exploded.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/redis_war.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/redis_war_exploded.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_dyuproject_protostuff_protostuff_api_1_0_8.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_dyuproject_protostuff_protostuff_collectionschema_1_0_12.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_dyuproject_protostuff_protostuff_core_1_0_8.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_dyuproject_protostuff_protostuff_runtime_1_0_12.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_4_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_redis_1_3_2_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_1_13_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_keyvalue_1_2_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_redis_1_8_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_oxm_4_3_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__redis_clients_jedis_2_9_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis/redis.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis/src/main/java/com/springboot/Application.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis/src/main/java/com/springboot/controller/CityController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis/src/main/java/com/springboot/dao/CityDao.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis/src/main/java/com/springboot/domain/City.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis/src/main/java/com/springboot/service/ICityService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis/src/main/java/com/springboot/service/IRedisService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis/src/main/java/com/springboot/service/impl/CityServiceImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis/src/main/java/com/springboot/service/impl/RedisServiceImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis/src/main/java/com/springboot/utils/customException/CustomerException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis/src/main/java/com/springboot/utils/customException/ExceptionEnum.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis/src/main/java/com/springboot/utils/customException/ExceptionHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis/src/main/java/com/springboot/utils/customException/ResultMsg.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis/src/main/resources/application.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis/src/main/resources/mapper/CityMapper.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis/src/main/webapp/js/jquery-1.11.2.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/helloWorld/helloWorld.iml" afterPath="$PROJECT_DIR$/helloWorld/helloWorld.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mybaits/mybaits.iml" afterPath="$PROJECT_DIR$/mybaits/mybaits.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mybaits/src/main/resources/application.properties" afterPath="$PROJECT_DIR$/mybaits/src/main/resources/application.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mybaits/target/classes/application.properties" afterPath="$PROJECT_DIR$/mybaits/target/classes/application.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mybatis-annotation/mybatis-annotation.iml" afterPath="$PROJECT_DIR$/mybatis-annotation/mybatis-annotation.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mybatis-annotation/pom.xml" afterPath="$PROJECT_DIR$/mybatis-annotation/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mybatis-mutil-datasource/mybatis-mutil-datasource.iml" afterPath="$PROJECT_DIR$/mybatis-mutil-datasource/mybatis-mutil-datasource.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mybatis-mutil-datasource/pom.xml" afterPath="$PROJECT_DIR$/mybatis-mutil-datasource/pom.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/properties/properties.iml" afterPath="$PROJECT_DIR$/properties/properties.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/readMe.txt" afterPath="$PROJECT_DIR$/readMe.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/restful/restful.iml" afterPath="$PROJECT_DIR$/restful/restful.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/runnerDesc/runnerDesc.iml" afterPath="$PROJECT_DIR$/runnerDesc/runnerDesc.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/springboot.iml" afterPath="$PROJECT_DIR$/springboot.iml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/helloWorld/target/helloWorld/WEB-INF/lib/classmate-1.3.3.jar" afterPath="$PROJECT_DIR$/springboot-freemarker/target/springboot-freemarker/WEB-INF/lib/classmate-1.3.3.jar" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/helloWorld/target/helloWorld/WEB-INF/lib/hibernate-validator-5.3.4.Final.jar" afterPath="$PROJECT_DIR$/springboot-freemarker/target/springboot-freemarker/WEB-INF/lib/hibernate-validator-5.3.4.Final.jar" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/helloWorld/target/helloWorld/WEB-INF/lib/jackson-annotations-2.8.0.jar" afterPath="$PROJECT_DIR$/springboot-freemarker/target/springboot-freemarker/WEB-INF/lib/jackson-annotations-2.8.0.jar" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/helloWorld/target/helloWorld/WEB-INF/lib/jackson-core-2.8.6.jar" afterPath="$PROJECT_DIR$/springboot-freemarker/target/springboot-freemarker/WEB-INF/lib/jackson-core-2.8.6.jar" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/helloWorld/target/helloWorld/WEB-INF/lib/jackson-databind-2.8.6.jar" afterPath="$PROJECT_DIR$/springboot-freemarker/target/springboot-freemarker/WEB-INF/lib/jackson-databind-2.8.6.jar" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/helloWorld/target/helloWorld/WEB-INF/lib/jboss-logging-3.3.0.Final.jar" afterPath="$PROJECT_DIR$/springboot-freemarker/target/springboot-freemarker/WEB-INF/lib/jboss-logging-3.3.0.Final.jar" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/helloWorld/target/helloWorld/WEB-INF/lib/jcl-over-slf4j-1.7.22.jar" afterPath="$PROJECT_DIR$/springboot-freemarker/target/springboot-freemarker/WEB-INF/lib/jcl-over-slf4j-1.7.22.jar" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/helloWorld/target/helloWorld/WEB-INF/lib/jul-to-slf4j-1.7.22.jar" afterPath="$PROJECT_DIR$/springboot-freemarker/target/springboot-freemarker/WEB-INF/lib/jul-to-slf4j-1.7.22.jar" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/helloWorld/target/helloWorld/WEB-INF/lib/log4j-over-slf4j-1.7.22.jar" afterPath="$PROJECT_DIR$/springboot-freemarker/target/springboot-freemarker/WEB-INF/lib/log4j-over-slf4j-1.7.22.jar" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/helloWorld/target/helloWorld/WEB-INF/lib/logback-classic-1.1.9.jar" afterPath="$PROJECT_DIR$/springboot-freemarker/target/springboot-freemarker/WEB-INF/lib/logback-classic-1.1.9.jar" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/helloWorld/target/helloWorld/WEB-INF/lib/logback-core-1.1.9.jar" afterPath="$PROJECT_DIR$/springboot-freemarker/target/springboot-freemarker/WEB-INF/lib/logback-core-1.1.9.jar" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/helloWorld/target/helloWorld/WEB-INF/lib/slf4j-api-1.7.22.jar" afterPath="$PROJECT_DIR$/springboot-freemarker/target/springboot-freemarker/WEB-INF/lib/slf4j-api-1.7.22.jar" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/helloWorld/target/helloWorld/WEB-INF/lib/snakeyaml-1.17.jar" afterPath="$PROJECT_DIR$/springboot-freemarker/target/springboot-freemarker/WEB-INF/lib/snakeyaml-1.17.jar" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/helloWorld/target/helloWorld/WEB-INF/lib/spring-aop-4.3.6.RELEASE.jar" afterPath="$PROJECT_DIR$/springboot-freemarker/target/springboot-freemarker/WEB-INF/lib/spring-aop-4.3.6.RELEASE.jar" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/helloWorld/target/helloWorld/WEB-INF/lib/spring-beans-4.3.6.RELEASE.jar" afterPath="$PROJECT_DIR$/springboot-freemarker/target/springboot-freemarker/WEB-INF/lib/spring-beans-4.3.6.RELEASE.jar" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/helloWorld/target/helloWorld/WEB-INF/lib/spring-boot-1.5.1.RELEASE.jar" afterPath="$PROJECT_DIR$/springboot-freemarker/target/springboot-freemarker/WEB-INF/lib/spring-boot-1.5.1.RELEASE.jar" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/helloWorld/target/helloWorld/WEB-INF/lib/spring-boot-autoconfigure-1.5.1.RELEASE.jar" afterPath="$PROJECT_DIR$/springboot-freemarker/target/springboot-freemarker/WEB-INF/lib/spring-boot-autoconfigure-1.5.1.RELEASE.jar" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/helloWorld/target/helloWorld/WEB-INF/lib/spring-boot-starter-1.5.1.RELEASE.jar" afterPath="$PROJECT_DIR$/springboot-freemarker/target/springboot-freemarker/WEB-INF/lib/spring-boot-starter-1.5.1.RELEASE.jar" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/helloWorld/target/helloWorld/WEB-INF/lib/spring-boot-starter-logging-1.5.1.RELEASE.jar" afterPath="$PROJECT_DIR$/springboot-freemarker/target/springboot-freemarker/WEB-INF/lib/spring-boot-starter-logging-1.5.1.RELEASE.jar" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/helloWorld/target/helloWorld/WEB-INF/lib/spring-boot-starter-tomcat-1.5.1.RELEASE.jar" afterPath="$PROJECT_DIR$/springboot-freemarker/target/springboot-freemarker/WEB-INF/lib/spring-boot-starter-tomcat-1.5.1.RELEASE.jar" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/helloWorld/target/helloWorld/WEB-INF/lib/spring-boot-starter-web-1.5.1.RELEASE.jar" afterPath="$PROJECT_DIR$/springboot-freemarker/target/springboot-freemarker/WEB-INF/lib/spring-boot-starter-web-1.5.1.RELEASE.jar" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/helloWorld/target/helloWorld/WEB-INF/lib/spring-context-4.3.6.RELEASE.jar" afterPath="$PROJECT_DIR$/springboot-freemarker/target/springboot-freemarker/WEB-INF/lib/spring-context-4.3.6.RELEASE.jar" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/helloWorld/target/helloWorld/WEB-INF/lib/spring-core-4.3.6.RELEASE.jar" afterPath="$PROJECT_DIR$/springboot-freemarker/target/springboot-freemarker/WEB-INF/lib/spring-core-4.3.6.RELEASE.jar" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/helloWorld/target/helloWorld/WEB-INF/lib/spring-expression-4.3.6.RELEASE.jar" afterPath="$PROJECT_DIR$/springboot-freemarker/target/springboot-freemarker/WEB-INF/lib/spring-expression-4.3.6.RELEASE.jar" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/helloWorld/target/helloWorld/WEB-INF/lib/spring-web-4.3.6.RELEASE.jar" afterPath="$PROJECT_DIR$/springboot-freemarker/target/springboot-freemarker/WEB-INF/lib/spring-web-4.3.6.RELEASE.jar" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/helloWorld/target/helloWorld/WEB-INF/lib/spring-webmvc-4.3.6.RELEASE.jar" afterPath="$PROJECT_DIR$/springboot-freemarker/target/springboot-freemarker/WEB-INF/lib/spring-webmvc-4.3.6.RELEASE.jar" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/helloWorld/target/helloWorld/WEB-INF/lib/tomcat-embed-core-8.5.11.jar" afterPath="$PROJECT_DIR$/springboot-freemarker/target/springboot-freemarker/WEB-INF/lib/tomcat-embed-core-8.5.11.jar" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/helloWorld/target/helloWorld/WEB-INF/lib/tomcat-embed-el-8.5.11.jar" afterPath="$PROJECT_DIR$/springboot-freemarker/target/springboot-freemarker/WEB-INF/lib/tomcat-embed-el-8.5.11.jar" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/helloWorld/target/helloWorld/WEB-INF/lib/tomcat-embed-websocket-8.5.11.jar" afterPath="$PROJECT_DIR$/springboot-freemarker/target/springboot-freemarker/WEB-INF/lib/tomcat-embed-websocket-8.5.11.jar" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/helloWorld/target/helloWorld/WEB-INF/lib/validation-api-1.1.0.Final.jar" afterPath="$PROJECT_DIR$/springboot-freemarker/target/springboot-freemarker/WEB-INF/lib/validation-api-1.1.0.Final.jar" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/helloWorld/target/helloWorld/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/springboot-freemarker/src/main/webapp/WEB-INF/web.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/helloWorld/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/validation-over-json/target/maven-archiver/pom.properties" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mybatis-annotation/target/mybatis-annotation.war" afterPath="$PROJECT_DIR$/validation-over-json/target/validation-over-json.war" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mybatis-annotation/target/mybatis-annotation/WEB-INF/lib/classmate-1.3.3.jar" afterPath="$PROJECT_DIR$/validation-over-json/target/validation-over-json/WEB-INF/lib/classmate-1.3.3.jar" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mybatis-annotation/target/mybatis-annotation/WEB-INF/lib/hibernate-validator-5.3.4.Final.jar" afterPath="$PROJECT_DIR$/validation-over-json/target/validation-over-json/WEB-INF/lib/hibernate-validator-5.3.4.Final.jar" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mybatis-annotation/target/mybatis-annotation/WEB-INF/lib/jackson-annotations-2.8.0.jar" afterPath="$PROJECT_DIR$/validation-over-json/target/validation-over-json/WEB-INF/lib/jackson-annotations-2.8.0.jar" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mybatis-annotation/target/mybatis-annotation/WEB-INF/lib/jackson-core-2.8.6.jar" afterPath="$PROJECT_DIR$/validation-over-json/target/validation-over-json/WEB-INF/lib/jackson-core-2.8.6.jar" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mybatis-annotation/target/mybatis-annotation/WEB-INF/lib/jackson-databind-2.8.6.jar" afterPath="$PROJECT_DIR$/validation-over-json/target/validation-over-json/WEB-INF/lib/jackson-databind-2.8.6.jar" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mybatis-annotation/target/mybatis-annotation/WEB-INF/lib/jboss-logging-3.3.0.Final.jar" afterPath="$PROJECT_DIR$/validation-over-json/target/validation-over-json/WEB-INF/lib/jboss-logging-3.3.0.Final.jar" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mybatis-annotation/target/mybatis-annotation/WEB-INF/lib/jcl-over-slf4j-1.7.22.jar" afterPath="$PROJECT_DIR$/validation-over-json/target/validation-over-json/WEB-INF/lib/jcl-over-slf4j-1.7.22.jar" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mybatis-annotation/target/mybatis-annotation/WEB-INF/lib/jul-to-slf4j-1.7.22.jar" afterPath="$PROJECT_DIR$/validation-over-json/target/validation-over-json/WEB-INF/lib/jul-to-slf4j-1.7.22.jar" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mybatis-annotation/target/mybatis-annotation/WEB-INF/lib/log4j-over-slf4j-1.7.22.jar" afterPath="$PROJECT_DIR$/validation-over-json/target/validation-over-json/WEB-INF/lib/log4j-over-slf4j-1.7.22.jar" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mybatis-annotation/target/mybatis-annotation/WEB-INF/lib/logback-classic-1.1.9.jar" afterPath="$PROJECT_DIR$/validation-over-json/target/validation-over-json/WEB-INF/lib/logback-classic-1.1.9.jar" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mybatis-annotation/target/mybatis-annotation/WEB-INF/lib/logback-core-1.1.9.jar" afterPath="$PROJECT_DIR$/validation-over-json/target/validation-over-json/WEB-INF/lib/logback-core-1.1.9.jar" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mybatis-annotation/target/mybatis-annotation/WEB-INF/lib/mybatis-3.4.2.jar" afterPath="$PROJECT_DIR$/springboot-freemarker/target/springboot-freemarker/WEB-INF/lib/mybatis-3.4.2.jar" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mybatis-annotation/target/mybatis-annotation/WEB-INF/lib/mybatis-spring-1.3.1.jar" afterPath="$PROJECT_DIR$/springboot-freemarker/target/springboot-freemarker/WEB-INF/lib/mybatis-spring-1.3.1.jar" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mybatis-annotation/target/mybatis-annotation/WEB-INF/lib/mybatis-spring-boot-autoconfigure-1.2.0.jar" afterPath="$PROJECT_DIR$/springboot-freemarker/target/springboot-freemarker/WEB-INF/lib/mybatis-spring-boot-autoconfigure-1.2.0.jar" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mybatis-annotation/target/mybatis-annotation/WEB-INF/lib/mybatis-spring-boot-starter-1.2.0.jar" afterPath="$PROJECT_DIR$/springboot-freemarker/target/springboot-freemarker/WEB-INF/lib/mybatis-spring-boot-starter-1.2.0.jar" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mybatis-annotation/target/mybatis-annotation/WEB-INF/lib/slf4j-api-1.7.22.jar" afterPath="$PROJECT_DIR$/validation-over-json/target/validation-over-json/WEB-INF/lib/slf4j-api-1.7.22.jar" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mybatis-annotation/target/mybatis-annotation/WEB-INF/lib/snakeyaml-1.17.jar" afterPath="$PROJECT_DIR$/validation-over-json/target/validation-over-json/WEB-INF/lib/snakeyaml-1.17.jar" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mybatis-annotation/target/mybatis-annotation/WEB-INF/lib/spring-aop-4.3.6.RELEASE.jar" afterPath="$PROJECT_DIR$/validation-over-json/target/validation-over-json/WEB-INF/lib/spring-aop-4.3.6.RELEASE.jar" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mybatis-annotation/target/mybatis-annotation/WEB-INF/lib/spring-beans-4.3.6.RELEASE.jar" afterPath="$PROJECT_DIR$/validation-over-json/target/validation-over-json/WEB-INF/lib/spring-beans-4.3.6.RELEASE.jar" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mybatis-annotation/target/mybatis-annotation/WEB-INF/lib/spring-boot-1.5.1.RELEASE.jar" afterPath="$PROJECT_DIR$/validation-over-json/target/validation-over-json/WEB-INF/lib/spring-boot-1.5.1.RELEASE.jar" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mybatis-annotation/target/mybatis-annotation/WEB-INF/lib/spring-boot-autoconfigure-1.5.1.RELEASE.jar" afterPath="$PROJECT_DIR$/validation-over-json/target/validation-over-json/WEB-INF/lib/spring-boot-autoconfigure-1.5.1.RELEASE.jar" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mybatis-annotation/target/mybatis-annotation/WEB-INF/lib/spring-boot-starter-1.5.1.RELEASE.jar" afterPath="$PROJECT_DIR$/validation-over-json/target/validation-over-json/WEB-INF/lib/spring-boot-starter-1.5.1.RELEASE.jar" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mybatis-annotation/target/mybatis-annotation/WEB-INF/lib/spring-boot-starter-jdbc-1.5.1.RELEASE.jar" afterPath="$PROJECT_DIR$/springboot-freemarker/target/springboot-freemarker/WEB-INF/lib/spring-boot-starter-jdbc-1.5.1.RELEASE.jar" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mybatis-annotation/target/mybatis-annotation/WEB-INF/lib/spring-boot-starter-logging-1.5.1.RELEASE.jar" afterPath="$PROJECT_DIR$/validation-over-json/target/validation-over-json/WEB-INF/lib/spring-boot-starter-logging-1.5.1.RELEASE.jar" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mybatis-annotation/target/mybatis-annotation/WEB-INF/lib/spring-boot-starter-tomcat-1.5.1.RELEASE.jar" afterPath="$PROJECT_DIR$/validation-over-json/target/validation-over-json/WEB-INF/lib/spring-boot-starter-tomcat-1.5.1.RELEASE.jar" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mybatis-annotation/target/mybatis-annotation/WEB-INF/lib/spring-boot-starter-web-1.5.1.RELEASE.jar" afterPath="$PROJECT_DIR$/validation-over-json/target/validation-over-json/WEB-INF/lib/spring-boot-starter-web-1.5.1.RELEASE.jar" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mybatis-annotation/target/mybatis-annotation/WEB-INF/lib/spring-context-4.3.6.RELEASE.jar" afterPath="$PROJECT_DIR$/validation-over-json/target/validation-over-json/WEB-INF/lib/spring-context-4.3.6.RELEASE.jar" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mybatis-annotation/target/mybatis-annotation/WEB-INF/lib/spring-core-4.3.6.RELEASE.jar" afterPath="$PROJECT_DIR$/validation-over-json/target/validation-over-json/WEB-INF/lib/spring-core-4.3.6.RELEASE.jar" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mybatis-annotation/target/mybatis-annotation/WEB-INF/lib/spring-expression-4.3.6.RELEASE.jar" afterPath="$PROJECT_DIR$/validation-over-json/target/validation-over-json/WEB-INF/lib/spring-expression-4.3.6.RELEASE.jar" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mybatis-annotation/target/mybatis-annotation/WEB-INF/lib/spring-jdbc-4.3.6.RELEASE.jar" afterPath="$PROJECT_DIR$/springboot-freemarker/target/springboot-freemarker/WEB-INF/lib/spring-jdbc-4.3.6.RELEASE.jar" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mybatis-annotation/target/mybatis-annotation/WEB-INF/lib/spring-tx-4.3.6.RELEASE.jar" afterPath="$PROJECT_DIR$/springboot-freemarker/target/springboot-freemarker/WEB-INF/lib/spring-tx-4.3.6.RELEASE.jar" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mybatis-annotation/target/mybatis-annotation/WEB-INF/lib/spring-web-4.3.6.RELEASE.jar" afterPath="$PROJECT_DIR$/validation-over-json/target/validation-over-json/WEB-INF/lib/spring-web-4.3.6.RELEASE.jar" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mybatis-annotation/target/mybatis-annotation/WEB-INF/lib/spring-webmvc-4.3.6.RELEASE.jar" afterPath="$PROJECT_DIR$/validation-over-json/target/validation-over-json/WEB-INF/lib/spring-webmvc-4.3.6.RELEASE.jar" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mybatis-annotation/target/mybatis-annotation/WEB-INF/lib/tomcat-embed-core-8.5.11.jar" afterPath="$PROJECT_DIR$/validation-over-json/target/validation-over-json/WEB-INF/lib/tomcat-embed-core-8.5.11.jar" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mybatis-annotation/target/mybatis-annotation/WEB-INF/lib/tomcat-embed-el-8.5.11.jar" afterPath="$PROJECT_DIR$/validation-over-json/target/validation-over-json/WEB-INF/lib/tomcat-embed-el-8.5.11.jar" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mybatis-annotation/target/mybatis-annotation/WEB-INF/lib/tomcat-embed-websocket-8.5.11.jar" afterPath="$PROJECT_DIR$/validation-over-json/target/validation-over-json/WEB-INF/lib/tomcat-embed-websocket-8.5.11.jar" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mybatis-annotation/target/mybatis-annotation/WEB-INF/lib/tomcat-jdbc-8.5.11.jar" afterPath="$PROJECT_DIR$/springboot-freemarker/target/springboot-freemarker/WEB-INF/lib/tomcat-jdbc-8.5.11.jar" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mybatis-annotation/target/mybatis-annotation/WEB-INF/lib/tomcat-juli-8.5.11.jar" afterPath="$PROJECT_DIR$/springboot-freemarker/target/springboot-freemarker/WEB-INF/lib/tomcat-juli-8.5.11.jar" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mybatis-annotation/target/mybatis-annotation/WEB-INF/lib/validation-api-1.1.0.Final.jar" afterPath="$PROJECT_DIR$/validation-over-json/target/validation-over-json/WEB-INF/lib/validation-api-1.1.0.Final.jar" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mybatis-annotation/target/mybatis-annotation/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/springboot-freemarker/target/springboot-freemarker/WEB-INF/web.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/properties/target/properties/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/validation-over-json/src/main/webapp/WEB-INF/web.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/runnerDesc/target/runnerDesc/META-INF/MANIFEST.MF" afterPath="$PROJECT_DIR$/springboot-freemarker/target/springboot-freemarker/META-INF/MANIFEST.MF" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/runnerDesc/target/runnerDesc/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/validation-over-json/target/validation-over-json/WEB-INF/web.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/springboot-freemarker/springboot-freemarker.iml" afterPath="$PROJECT_DIR$/springboot-freemarker/springboot-freemarker.iml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -389,6 +55,7 @@
     <ignored path="$PROJECT_DIR$/freemarker/target/" />
     <ignored path="$PROJECT_DIR$/springboot-freemarker/target/" />
     <ignored path="$PROJECT_DIR$/validation-over-json/target/" />
+    <ignored path="$PROJECT_DIR$/redis/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -410,11 +77,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="CityController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/validation-over-json/src/main/java/com/springboot/controller/CityController.java">
+      <file leaf-file-name="CityServiceImpl.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/redis/src/main/java/com/springboot/service/impl/CityServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="94">
-              <caret line="60" column="27" selection-start-line="60" selection-start-column="21" selection-end-line="60" selection-end-column="27" />
+            <state relative-caret-position="700">
+              <caret line="40" column="5" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CityDao.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/redis/src/main/java/com/springboot/dao/CityDao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="214">
+              <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -422,107 +99,71 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CityBizImpl.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/validation-over-json/src/main/java/com/springboot/biz/impl/CityBizImpl.java">
+      <file leaf-file-name="CityMapper.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/redis/src/main/resources/mapper/CityMapper.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="113">
-              <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+            <state relative-caret-position="350">
+              <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+              <folding>
+                <marker date="1500629455829" expanded="true" signature="760:854" ph="select from city" />
+                <marker date="1500629455829" expanded="true" signature="935:1004" ph="select from city" />
+                <marker date="1500629455829" expanded="true" signature="1116:1250" ph="insert into city" />
+                <marker date="1500629455829" expanded="true" signature="1323:1658" ph="update city " />
+                <marker date="1500629455829" expanded="true" signature="1742:1799" ph="delete from " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ICityService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/redis/src/main/java/com/springboot/service/ICityService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="325">
+              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ExceptionEnum.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/validation-over-json/src/main/java/com/springboot/utils/customException/ExceptionEnum.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="438">
-              <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
-              <folding>
-                <element signature="e#384#385#0" expanded="true" />
-                <element signature="e#411#412#0" expanded="true" />
-                <element signature="e#451#452#0" expanded="true" />
-                <element signature="e#483#484#0" expanded="true" />
-                <element signature="e#517#518#0" expanded="true" />
-                <element signature="e#547#548#0" expanded="true" />
-                <element signature="e#593#594#0" expanded="true" />
-                <element signature="e#631#632#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CustomerException.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/validation-over-json/src/main/java/com/springboot/utils/customException/CustomerException.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="219">
-              <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-              <folding>
-                <element signature="e#365#366#0" expanded="true" />
-                <element signature="e#403#404#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="ExceptionHandler.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/validation-over-json/src/main/java/com/springboot/utils/customException/ExceptionHandler.java">
+        <entry file="file://$PROJECT_DIR$/redis/src/main/java/com/springboot/utils/customException/ExceptionHandler.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="350">
-              <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+              <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ResultMsg.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/validation-over-json/src/main/java/com/springboot/utils/customException/ResultMsg.java">
+      <file leaf-file-name="CityController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/redis/src/main/java/com/springboot/controller/CityController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="469">
-              <caret line="43" column="5" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
+            <state relative-caret-position="288">
+              <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#1008#1016#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="index.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/validation-over-json/src/main/webapp/index.jsp">
+        <entry file="file://$PROJECT_DIR$/redis/src/main/webapp/index.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="130">
-              <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+            <state relative-caret-position="255">
+              <caret line="15" column="137" selection-start-line="15" selection-start-column="137" selection-end-line="15" selection-end-column="137" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="City.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/validation-over-json/src/main/java/com/springboot/domain/po/City.java">
+      <file leaf-file-name="CustomerException.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/redis/src/main/java/com/springboot/utils/customException/CustomerException.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="30" column="30" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="30" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="City.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/validation-over-json/src/main/webapp/WEB-INF/jsps/City.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="65" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="city.ftl" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/validation-over-json/src/main/resources/web/city.ftl">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="3" column="26" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="26" />
+            <state relative-caret-position="325">
+              <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -536,9 +177,9 @@
         <option value="spring-beans.schema" />
         <option value="HTML File" />
         <option value="Jsp File" />
+        <option value="Enum" />
         <option value="Interface" />
         <option value="Class" />
-        <option value="Enum" />
       </list>
     </option>
   </component>
@@ -553,30 +194,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/springboot-freemarker/pom.xml" />
-        <option value="$PROJECT_DIR$/springboot-freemarker/src/main/java/com/springboot/controller/ICityService.java" />
-        <option value="$PROJECT_DIR$/springboot-freemarker/src/main/java/com/springboot/service/ICityService.java" />
-        <option value="$PROJECT_DIR$/springboot-freemarker/src/main/java/com/springboot/service/impl/CityServiceImpl.java" />
-        <option value="$PROJECT_DIR$/springboot-freemarker/src/main/java/com/springboot/domain/City.java" />
-        <option value="$PROJECT_DIR$/springboot-freemarker/src/main/java/com/springboot/dao/CityDao.java" />
-        <option value="$PROJECT_DIR$/springboot-freemarker/src/main/resources/mapper/CityMapper.xml" />
-        <option value="$PROJECT_DIR$/springboot-freemarker/src/main/webapp/jsps/index.jsp" />
-        <option value="$PROJECT_DIR$/springboot-freemarker/src/main/java/com/springboot/Application.java" />
-        <option value="$PROJECT_DIR$/springboot-freemarker/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/springboot-freemarker/src/main/webapp/WEB-INF/web.xml" />
-        <option value="$PROJECT_DIR$/springboot-freemarker/src/main/java/com/springboot/controller/CityController.java" />
-        <option value="$PROJECT_DIR$/springboot-freemarker/src/main/webapp/index.jsp" />
-        <option value="$PROJECT_DIR$/springboot-freemarker/src/main/webapp/WEB-INF/jsps/index.jsp" />
-        <option value="$PROJECT_DIR$/springboot-freemarker/src/main/resources/web/city.ftl" />
-        <option value="$PROJECT_DIR$/springboot-freemarker/src/main/resources/web/cityList.ftl" />
-        <option value="$PROJECT_DIR$/readMe.txt" />
-        <option value="$PROJECT_DIR$/validation-over-json/src/main/java/com/springboot/domain/City.java" />
-        <option value="$PROJECT_DIR$/validation-over-json/src/main/java/com/springboot/domain/ResultMsg.java" />
-        <option value="$PROJECT_DIR$/validation-over-json/src/main/webapp/WEB-INF/web.xml" />
-        <option value="$PROJECT_DIR$/validation-over-json/src/main/java/com/springboot/Applicaiton.java" />
-        <option value="$PROJECT_DIR$/validation-over-json/src/main/resources/web/city.ftl.html" />
-        <option value="$PROJECT_DIR$/validation-over-json/pom.xml" />
-        <option value="$PROJECT_DIR$/validation-over-json/src/main/resources/web/city.ftl" />
         <option value="$PROJECT_DIR$/validation-over-json/src/main/webapp/WEB-INF/jsps/city.jsp" />
         <option value="$PROJECT_DIR$/validation-over-json/src/main/webapp/WEB-INF/jsps/City.jsp" />
         <option value="$PROJECT_DIR$/validation-over-json/src/main/java/com/springboot/utils/GlobalErrorInfoException.java" />
@@ -604,6 +221,30 @@
         <option value="$PROJECT_DIR$/validation-over-json/src/main/java/com/springboot/controller/CityController.java" />
         <option value="$PROJECT_DIR$/validation-over-json/src/main/webapp/index.jsp" />
         <option value="$PROJECT_DIR$/validation-over-json/src/main/java/com/springboot/utils/customException/ResultMsg.java" />
+        <option value="$PROJECT_DIR$/readMe.txt" />
+        <option value="$PROJECT_DIR$/redis/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/redis/src/main/java/com/springboot/Application.java" />
+        <option value="$PROJECT_DIR$/redis/src/main/java/com/springboot/utils/RedisCacheConfiguration.java" />
+        <option value="$PROJECT_DIR$/redis/src/main/java/com/springboot/autoconfiguration/JedisProperties.java" />
+        <option value="$PROJECT_DIR$/redis/src/main/java/com/springboot/utils/redis/RedisCacheConfiguration.java" />
+        <option value="$PROJECT_DIR$/redis/src/main/java/com/springboot/utils/redis/JedisAutoConfiguration.java" />
+        <option value="$PROJECT_DIR$/redis/src/main/java/com/springboot/utils/redis/JedisProperties.java" />
+        <option value="$PROJECT_DIR$/redis/src/main/java/com/springboot/utils/redis/RedisClient.java" />
+        <option value="$PROJECT_DIR$/redis/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/redis/src/main/java/com/springboot/utils/RedisConfig.java" />
+        <option value="$PROJECT_DIR$/redis/pom.xml" />
+        <option value="$PROJECT_DIR$/redis/src/main/webapp/WEB-INF/jsps/city.jsp" />
+        <option value="$PROJECT_DIR$/redis/src/main/java/com/springboot/utils/customException/ExceptionEnum.java" />
+        <option value="$PROJECT_DIR$/redis/src/main/java/com/springboot/utils/customException/ExceptionHandler.java" />
+        <option value="$PROJECT_DIR$/redis/src/main/webapp/index.jsp" />
+        <option value="$PROJECT_DIR$/redis/src/main/java/com/springboot/controller/CityController.java" />
+        <option value="$PROJECT_DIR$/redis/src/main/java/com/springboot/utils/customException/CustomerException.java" />
+        <option value="$PROJECT_DIR$/redis/src/main/java/com/springboot/service/IRedisService.java" />
+        <option value="$PROJECT_DIR$/redis/src/main/java/com/springboot/service/impl/RedisServiceImpl.java" />
+        <option value="$PROJECT_DIR$/redis/src/main/resources/mapper/CityMapper.xml" />
+        <option value="$PROJECT_DIR$/redis/src/main/java/com/springboot/dao/CityDao.java" />
+        <option value="$PROJECT_DIR$/redis/src/main/java/com/springboot/service/ICityService.java" />
+        <option value="$PROJECT_DIR$/redis/src/main/java/com/springboot/service/impl/CityServiceImpl.java" />
       </list>
     </option>
   </component>
@@ -630,7 +271,38 @@
     </option>
   </component>
   <component name="MavenProjectNavigator">
-    <treeState />
+    <treeState>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="redis" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Dependencies" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$DependenciesNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="redis" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+      </PATH>
+    </treeState>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
@@ -693,7 +365,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="validation-over-json" />
+              <option name="myItemId" value="redis" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -707,7 +379,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="validation-over-json" />
+              <option name="myItemId" value="redis" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -725,33 +397,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="validation-over-json" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="springboot" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="springboot" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="validation-over-json" />
+              <option name="myItemId" value="redis" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -766,10 +412,6 @@
               <option name="myItemId" value="webapp" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WEB-INF" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -781,7 +423,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="validation-over-json" />
+              <option name="myItemId" value="redis" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -800,10 +442,6 @@
               <option name="myItemId" value="WEB-INF" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jsps" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -815,7 +453,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="validation-over-json" />
+              <option name="myItemId" value="redis" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -845,7 +483,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="validation-over-json" />
+              <option name="myItemId" value="redis" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -871,37 +509,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="validation-over-json" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="springboot" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="springboot" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="validation-over-json" />
+              <option name="myItemId" value="redis" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -931,7 +539,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="validation-over-json" />
+              <option name="myItemId" value="redis" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -961,7 +569,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="validation-over-json" />
+              <option name="myItemId" value="redis" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -984,10 +592,6 @@
               <option name="myItemId" value="utils" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="exceptions" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -999,7 +603,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="validation-over-json" />
+              <option name="myItemId" value="redis" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -1037,7 +641,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="validation-over-json" />
+              <option name="myItemId" value="redis" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -1057,7 +661,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="domain" />
+              <option name="myItemId" value="service" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1071,7 +675,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="validation-over-json" />
+              <option name="myItemId" value="redis" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -1091,11 +695,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="domain" />
+              <option name="myItemId" value="service" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="po" />
+              <option name="myItemId" value="impl" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1109,7 +713,41 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="validation-over-json" />
+              <option name="myItemId" value="redis" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="springboot" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dao" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="springboot" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="springboot" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="redis" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -1161,15 +799,16 @@
       <recent name="com.springboot" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\workspace\springboot\validation-over-json\src\main\webapp\js" />
-      <recent name="F:\workspace\springboot\springboot-freemarker\src\main\webapp\jsps" />
-      <recent name="F:\workspace\springboot\springboot-freemarker\src\main\resources\web" />
-      <recent name="F:\workspace\springboot\shiro\src\main\webapp\WEB-INF\jsp" />
-      <recent name="F:\workspace\springboot\mybatis-annotation\src\main\resources" />
+      <recent name="F:\workspace\springboot\redis\src\main\java\com\springboot\utils" />
+      <recent name="F:\workspace\springboot\redis\src\main\webapp\js" />
+      <recent name="F:\workspace\springboot\redis\src\main\webapp\WEB-INF\jsps" />
+      <recent name="F:\workspace\springboot\redis\src\main\java\com\springboot\service" />
+      <recent name="F:\workspace\springboot\redis\src\main\resources\mapper" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.springboot.domain" />
+      <recent name="com.springboot.controller" />
       <recent name="com.springboot.dao" />
+      <recent name="com.springboot.domain" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.springboot.dao" />
@@ -1679,7 +1318,7 @@
       <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
       <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
       <deployment>
-        <artifact name="validation-over-json:war exploded">
+        <artifact name="redis:war exploded">
           <settings>
             <option name="CONTEXT_PATH" value="/" />
           </settings>
@@ -1744,7 +1383,7 @@
       </ConfigurationWrapper>
       <method>
         <option name="BuildArtifacts" enabled="true">
-          <artifact name="validation-over-json:war exploded" />
+          <artifact name="redis:war exploded" />
         </option>
       </method>
     </configuration>
@@ -1810,12 +1449,12 @@
       <workItem from="1500345308806" duration="1982000" />
       <workItem from="1500347379956" duration="800000" />
       <workItem from="1500348211913" duration="7074000" />
-      <workItem from="1500431354059" duration="31502000" />
+      <workItem from="1500431354059" duration="56304000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="126577000" />
+    <option name="totallyTimeSpent" value="151379000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1828,19 +1467,19 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.7813822" sideWeight="0.5025773" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3779972" sideWeight="0.5025773" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32863188" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.46842784" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34149486" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36597937" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2822165" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43018335" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27503526" sideWeight="0.4974227" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32863188" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36107194" sideWeight="0.496134" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
@@ -1850,7 +1489,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.7813822" sideWeight="0.4974227" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.8110014" sideWeight="0.4974227" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24613403" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22938144" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5994358" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1866,6 +1505,43 @@
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32925257" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.7813822" sideWeight="0.5025773" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32863188" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34149486" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36597937" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43018335" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32863188" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36107194" sideWeight="0.496134" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.7813822" sideWeight="0.4974227" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32925257" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.8110014" sideWeight="0.4974227" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24613403" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5994358" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="processedProjectFiles" value="true" />
@@ -1883,473 +1559,502 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="15" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/redis/src/main/java/com/springboot/utils/redis/RedisClient.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/redis/src/main/java/com/springboot/utils/redis/JedisAutoConfiguration.java</url>
+          <line>70</line>
+          <properties />
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/redis/src/main/java/com/springboot/utils/redis/JedisAutoConfiguration.java</url>
+          <line>60</line>
+          <properties />
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/redis/src/main/java/com/springboot/controller/CityController.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="40" />
     </breakpoint-manager>
-    <watches-manager />
+    <watches-manager>
+      <configuration name="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory">
+        <watch expression="str" />
+        <watch expression="jedisPool.getResource()" language="JAVA" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/validation-over-json/src/main/java/com/springboot/domain/City.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1325">
-          <caret line="84" column="0" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/4.3.6.RELEASE/spring-core-4.3.6.RELEASE.jar!/org/springframework/util/StringUtils.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="251">
-          <caret line="34" column="45" selection-start-line="34" selection-start-column="45" selection-end-line="34" selection-end-column="45" />
-          <folding>
-            <element signature="e#999#1000#0" expanded="true" />
-            <element signature="e#1051#1052#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/validation-over-json/src/main/java/com/springboot/domain/ResultMsg.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-156">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/validation-over-json/src/main/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/runnerDesc/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="12" selection-start-line="9" selection-start-column="3" selection-end-line="14" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/restful/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-525">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/properties/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-600">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-freemarker/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-500">
-          <caret line="25" column="21" selection-start-line="21" selection-start-column="8" selection-end-line="25" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-freemarker/src/main/resources/web/city.ftl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-freemarker/src/main/java/com/springboot/controller/CityController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="23" column="32" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-freemarker/src/main/resources/mapper/CityMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
-          <folding>
-            <marker date="1500535087683" expanded="true" signature="760:854" ph="select from city" />
-            <marker date="1500535087683" expanded="true" signature="935:1004" ph="select from city" />
-            <marker date="1500535087683" expanded="true" signature="1116:1250" ph="insert into city" />
-            <marker date="1500535087683" expanded="true" signature="1323:1658" ph="update city " />
-            <marker date="1500535087683" expanded="true" signature="1742:1799" ph="delete from " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-freemarker/src/main/java/com/springboot/Application.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="19" column="30" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-freemarker/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="464">
-          <caret line="25" column="12" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/validation-over-json/src/main/java/com/springboot/Applicaiton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/validation-over-json/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="31" column="21" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/jdk8/src.zip!/java/lang/Exception.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="669">
-          <caret line="119" column="50" selection-start-line="119" selection-start-column="50" selection-end-line="119" selection-end-column="50" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/validation-over-json/src/main/java/com/springboot/utils/GlobalErrorInfoException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="14" column="35" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/validation-over-json/src/main/java/com/springboot/utils/UnKnowParametersException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="5" column="38" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/validation-over-json/src/main/resources/mapper/CityMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
-          <folding>
-            <marker date="1500535088052" expanded="true" signature="787:881" ph="select from city" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/validation-over-json/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="15" column="46" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/validation-over-json/src/main/java/com/springboot/service/ICityService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/validation-over-json/src/main/java/com/springboot/service/impl/CityServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="17" column="34" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#473#474#0" expanded="true" />
-            <element signature="e#524#525#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/validation-over-json/src/main/java/com/springboot/dao/ICityDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/validation-over-json/src/main/java/com/springboot/utils/ExceptionHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="11" column="29" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/validation-over-json/src/main/java/com/springboot/utils/exceptions/impl/CityErrorInfoEnum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.3.6.RELEASE/spring-webmvc-4.3.6.RELEASE.jar!/org/springframework/web/servlet/DispatcherServlet.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="93">
-          <caret line="478" column="0" selection-start-line="478" selection-start-column="0" selection-end-line="478" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.3.6.RELEASE/spring-webmvc-4.3.6.RELEASE.jar!/org/springframework/web/servlet/mvc/method/annotation/RequestMappingHandlerAdapter.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="561" column="0" selection-start-line="561" selection-start-column="0" selection-end-line="561" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.6.RELEASE/spring-web-4.3.6.RELEASE.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="125" column="0" selection-start-line="125" selection-start-column="0" selection-end-line="125" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/jdk8/src.zip!/java/lang/annotation/Documented.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="41" column="18" selection-start-line="41" selection-start-column="18" selection-end-line="41" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.6.RELEASE/spring-web-4.3.6.RELEASE.jar!/org/springframework/web/bind/annotation/ResponseBody.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.6.RELEASE/spring-web-4.3.6.RELEASE.jar!/org/springframework/web/bind/annotation/ControllerAdvice.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="501">
-          <caret line="31" column="40" selection-start-line="31" selection-start-column="40" selection-end-line="31" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.6.RELEASE/spring-web-4.3.6.RELEASE.jar!/org/springframework/web/bind/annotation/RestControllerAdvice.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="20" column="11" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/validation-over-json/src/main/java/com/springboot/utils/exceptions/GlobalErrorInfoException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="394">
-          <caret line="17" column="54" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="54" />
-          <folding>
-            <element signature="e#233#234#0" expanded="true" />
-            <element signature="e#265#266#0" expanded="true" />
-            <element signature="e#327#328#0" expanded="true" />
-            <element signature="e#369#370#0" expanded="true" />
-            <element signature="e#438#439#0" expanded="true" />
-            <element signature="e#480#481#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/validation-over-json/src/main/java/com/springboot/utils/exceptions/ErrorInfoInterface.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" column="35" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/validation-over-json/src/main/java/com/springboot/utils/exceptions/ExceptionEnum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/validation-over-json/src/main/java/com/springboot/utils/exceptions/CityErrorInfoEnum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
-          <folding>
-            <element signature="e#457#458#0" expanded="true" />
-            <element signature="e#489#490#0" expanded="true" />
-            <element signature="e#537#538#0" expanded="true" />
-            <element signature="e#572#573#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/validation-over-json/src/main/java/com/springboot/domain/vo/ResultMsg.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
-          <caret line="56" column="11" selection-start-line="56" selection-start-column="11" selection-end-line="56" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/validation-over-json/src/main/java/com/springboot/utils/exceptions/GlobalErrorInfoHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/validation-over-json/src/main/java/com/springboot/biz/ICityBiz.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/validation-over-json/src/main/webapp/js/jquery-1.11.2.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/validation-over-json/src/main/resources/web/city.ftl">
+    <entry file="file://$PROJECT_DIR$/properties/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="3" column="26" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="26" />
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/validation-over-json/src/main/webapp/WEB-INF/jsps/City.jsp">
+    <entry file="file://$PROJECT_DIR$/properties/src/main/java/com/springboot/HomeProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="41" column="36" selection-start-line="41" selection-start-column="36" selection-end-line="41" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redis/src/main/java/com/springboot/utils/redis/JedisProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redis/src/main/java/com/springboot/utils/redis/RedisClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="28" column="25" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redis/src/main/java/com/springboot/utils/redis/JedisAutoConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="419">
+          <caret line="72" column="0" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redis/src/main/java/com/springboot/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/redis/clients/jedis/2.9.0/jedis-2.9.0.jar!/redis/clients/util/Pool.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="51" column="54" selection-start-line="51" selection-start-column="54" selection-end-line="51" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-pool2/2.4.2/commons-pool2-2.4.2.jar!/org/apache/commons/pool2/impl/BaseObjectPoolConfig.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2300">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-pool2/2.4.2/commons-pool2-2.4.2.jar!/org/apache/commons/pool2/impl/GenericObjectPoolConfig.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="9" column="53" selection-start-line="9" selection-start-column="53" selection-end-line="9" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/redis/clients/jedis/2.9.0/jedis-2.9.0.jar!/redis/clients/jedis/JedisPoolConfig.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="9" column="46" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.6.RELEASE/spring-beans-4.3.6.RELEASE.jar!/org/springframework/beans/factory/support/SimpleInstantiationStrategy.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="79">
+          <caret line="132" column="0" selection-start-line="132" selection-start-column="0" selection-end-line="132" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/4.3.6.RELEASE/spring-core-4.3.6.RELEASE.jar!/org/springframework/cglib/proxy/MethodProxy.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="123" column="0" selection-start-line="123" selection-start-column="0" selection-end-line="123" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/redis/clients/jedis/2.9.0/jedis-2.9.0.jar!/redis/clients/jedis/JedisPool.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="166" column="17" selection-start-line="166" selection-start-column="17" selection-end-line="166" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redis/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="51" column="36" selection-start-line="51" selection-start-column="36" selection-end-line="51" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/dyuproject/protostuff/protostuff-core/1.0.8/protostuff-core-1.0.8.jar!/com/dyuproject/protostuff/ProtostuffIOUtil.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="95" column="50" selection-start-line="95" selection-start-column="43" selection-end-line="95" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/dyuproject/protostuff/protostuff-runtime/1.0.12/protostuff-runtime-1.0.12.jar!/com/dyuproject/protostuff/runtime/RuntimeSchema.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="32" column="19" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/dyuproject/protostuff/protostuff-api/1.0.8/protostuff-api-1.0.8.jar!/com/dyuproject/protostuff/LinkedBuffer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redis/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="825">
+          <caret line="33" column="22" selection-start-line="17" selection-start-column="0" selection-end-line="33" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redis/src/main/java/com/springboot/utils/RedisConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="479">
+          <caret line="95" column="9" selection-start-line="95" selection-start-column="9" selection-end-line="95" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1361#1362#0" expanded="true" />
+            <element signature="e#1392#1393#0" expanded="true" />
+            <element signature="e#1440#1441#0" expanded="true" />
+            <element signature="e#1480#1481#0" expanded="true" />
+            <element signature="e#1508#1509#0" expanded="true" />
+            <element signature="e#1535#1536#0" expanded="true" />
+            <element signature="e#1572#1573#0" expanded="true" />
+            <element signature="e#1604#1605#0" expanded="true" />
+            <element signature="e#1639#1640#0" expanded="true" />
+            <element signature="e#1670#1671#0" expanded="true" />
+            <element signature="e#1718#1719#0" expanded="true" />
+            <element signature="e#1758#1759#0" expanded="true" />
+            <element signature="e#1789#1790#0" expanded="true" />
+            <element signature="e#1819#1820#0" expanded="true" />
+            <element signature="e#1862#1863#0" expanded="true" />
+            <element signature="e#1900#1901#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/validation-over-json/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="32" column="7" selection-start-line="32" selection-start-column="7" selection-end-line="32" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redis/src/main/webapp/WEB-INF/jsps/city.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="52" selection-start-line="0" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redis/src/main/webapp/js/jquery-1.11.2.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="65" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redis/src/main/java/com/springboot/utils/customException/ExceptionEnum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="25" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/jdk8/src.zip!/java/net/DualStackPlainSocketImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="282" column="22" selection-start-line="282" selection-start-column="22" selection-end-line="282" selection-end-column="22" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/validation-over-json/src/main/java/com/springboot/controller/CityController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="94">
-          <caret line="60" column="27" selection-start-line="60" selection-start-column="21" selection-end-line="60" selection-end-column="27" />
+        <state relative-caret-position="394">
+          <caret line="72" column="17" selection-start-line="72" selection-start-column="17" selection-end-line="72" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/validation-over-json/src/main/java/com/springboot/biz/impl/CityBizImpl.java">
+    <entry file="file://$PROJECT_DIR$/redis/src/main/webapp/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="113">
-          <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/validation-over-json/src/main/java/com/springboot/domain/po/City.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="30" column="30" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="30" />
+        <state relative-caret-position="255">
+          <caret line="15" column="137" selection-start-line="15" selection-start-column="137" selection-end-line="15" selection-end-column="137" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/validation-over-json/src/main/webapp/index.jsp">
+    <entry file="file://$PROJECT_DIR$/redis/src/main/java/com/springboot/utils/customException/ResultMsg.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+        <state relative-caret-position="301">
+          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/validation-over-json/src/main/java/com/springboot/utils/customException/CustomerException.java">
+    <entry file="jar://D:/jdk8/src.zip!/java/lang/Throwable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-          <folding>
-            <element signature="e#365#366#0" expanded="true" />
-            <element signature="e#403#404#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/validation-over-json/src/main/java/com/springboot/utils/customException/ExceptionEnum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="438">
-          <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
-          <folding>
-            <element signature="e#384#385#0" expanded="true" />
-            <element signature="e#411#412#0" expanded="true" />
-            <element signature="e#451#452#0" expanded="true" />
-            <element signature="e#483#484#0" expanded="true" />
-            <element signature="e#517#518#0" expanded="true" />
-            <element signature="e#547#548#0" expanded="true" />
-            <element signature="e#593#594#0" expanded="true" />
-            <element signature="e#631#632#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.6.RELEASE/spring-web-4.3.6.RELEASE.jar!/org/springframework/web/bind/annotation/ExceptionHandler.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="16" column="36" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+        <state relative-caret-position="76">
+          <caret line="113" column="13" selection-start-line="113" selection-start-column="13" selection-end-line="113" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/validation-over-json/src/main/java/com/springboot/utils/customException/ExceptionHandler.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.3.6.RELEASE/spring-webmvc-4.3.6.RELEASE.jar!/org/springframework/web/servlet/mvc/method/annotation/ServletInvocableHandlerMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="77" column="0" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.6.RELEASE/spring-web-4.3.6.RELEASE.jar!/org/springframework/web/method/HandlerMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="22" column="30" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
+          <folding>
+            <element signature="e#4433#4434#0" expanded="true" />
+            <element signature="e#4465#4466#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redis/src/main/java/com/springboot/utils/customException/ExceptionHandler.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="350">
-          <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/validation-over-json/src/main/java/com/springboot/utils/customException/ResultMsg.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.3.6.RELEASE/spring-webmvc-4.3.6.RELEASE.jar!/org/springframework/web/servlet/DispatcherServlet.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="469">
-          <caret line="43" column="5" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
+        <state relative-caret-position="314">
+          <caret line="520" column="57" selection-start-line="520" selection-start-column="57" selection-end-line="520" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.3.6.RELEASE/spring-webmvc-4.3.6.RELEASE.jar!/org/springframework/web/servlet/mvc/method/annotation/RequestMappingHandlerAdapter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="113" column="78" selection-start-line="113" selection-start-column="50" selection-end-line="113" selection-end-column="78" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.6.RELEASE/spring-web-4.3.6.RELEASE.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="43">
+          <caret line="113" column="5" selection-start-line="113" selection-start-column="5" selection-end-line="113" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.6.RELEASE/spring-web-4.3.6.RELEASE-sources.jar!/org/springframework/web/method/ControllerAdviceBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-149">
+          <caret line="51" column="13" selection-start-line="51" selection-start-column="13" selection-end-line="51" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.6.RELEASE/spring-web-4.3.6.RELEASE-sources.jar!/org/springframework/web/method/annotation/MapMethodProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-470">
+          <caret line="38" column="13" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.6.RELEASE/spring-web-4.3.6.RELEASE-sources.jar!/org/springframework/web/multipart/MultipartException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding>
+            <element signature="e#970#997#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.6.RELEASE/spring-web-4.3.6.RELEASE-sources.jar!/org/springframework/web/multipart/MaxUploadSizeExceededException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="53" column="21" selection-start-line="53" selection-start-column="21" selection-end-line="53" selection-end-column="21" />
+          <folding>
+            <element signature="e#1134#1135#0" expanded="false" />
+            <element signature="e#1166#1167#0" expanded="false" />
+            <element signature="e#1627#1628#0" expanded="false" />
+            <element signature="e#1659#1660#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.6.RELEASE/spring-web-4.3.6.RELEASE-sources.jar!/org/springframework/web/method/HandlerMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3324">
+          <caret line="133" column="7" selection-start-line="133" selection-start-column="7" selection-end-line="133" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.6.RELEASE/spring-web-4.3.6.RELEASE-sources.jar!/org/springframework/web/method/support/InvocableHandlerMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="47" column="50" selection-start-line="47" selection-start-column="50" selection-end-line="47" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redis/src/main/java/com/springboot/controller/CityController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding>
+            <element signature="e#1008#1016#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redis/src/main/java/com/springboot/utils/customException/CustomerException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/jdk8/src.zip!/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="142" column="6" selection-start-line="142" selection-start-column="6" selection-end-line="142" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/jdk8/src.zip!/java/util/AbstractMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="93" column="19" selection-start-line="93" selection-start-column="19" selection-end-line="93" selection-end-column="19" />
+          <folding>
+            <element signature="e#2469#2470#0" expanded="false" />
+            <element signature="e#2503#2504#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/jdk8/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="127" column="12" selection-start-line="127" selection-start-column="12" selection-end-line="127" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redis/src/main/java/com/springboot/service/impl/RedisServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="127" column="30" selection-start-line="127" selection-start-column="11" selection-end-line="127" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redis/src/main/java/com/springboot/service/IRedisService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="444">
+          <caret line="30" column="31" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redis/src/main/resources/mapper/CityMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+          <folding>
+            <marker date="1500629455829" expanded="true" signature="760:854" ph="select from city" />
+            <marker date="1500629455829" expanded="true" signature="935:1004" ph="select from city" />
+            <marker date="1500629455829" expanded="true" signature="1116:1250" ph="insert into city" />
+            <marker date="1500629455829" expanded="true" signature="1323:1658" ph="update city " />
+            <marker date="1500629455829" expanded="true" signature="1742:1799" ph="delete from " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redis/src/main/java/com/springboot/service/ICityService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redis/src/main/java/com/springboot/dao/CityDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redis/src/main/java/com/springboot/service/impl/CityServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="700">
+          <caret line="40" column="5" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -2407,7 +2112,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>validation-over-json</last-edited>
+          <last-edited>redis</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
