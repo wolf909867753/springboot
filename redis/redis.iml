@@ -94,6 +94,6 @@
     <orderEntry type="library" name="Maven: com.dyuproject.protostuff:protostuff-runtime:1.0.12" level="project" />
     <orderEntry type="library" name="Maven: com.dyuproject.protostuff:protostuff-collectionschema:1.0.12" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: junit:junit:4.12" level="project" />
-    <orderEntry type="library" scope="TEST" name="Maven: org.springframework:spring-test:3.2.0.RELEASE" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.springframework:spring-test:4.3.9.RELEASE" level="project" />
   </component>
 </module>
