@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/mybatis-mutil-datasource/mybatis-mutil-datasource.iml" filepath="$PROJECT_DIR$/mybatis-mutil-datasource/mybatis-mutil-datasource.iml" />
       <module fileurl="file://$PROJECT_DIR$/properties/properties.iml" filepath="$PROJECT_DIR$/properties/properties.iml" />
       <module fileurl="file://$PROJECT_DIR$/redis/redis.iml" filepath="$PROJECT_DIR$/redis/redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/redpackage/redpackage.iml" filepath="$PROJECT_DIR$/redpackage/redpackage.iml" />
       <module fileurl="file://$PROJECT_DIR$/restful/restful.iml" filepath="$PROJECT_DIR$/restful/restful.iml" />
       <module fileurl="file://$PROJECT_DIR$/runnerDesc/runnerDesc.iml" filepath="$PROJECT_DIR$/runnerDesc/runnerDesc.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot.iml" filepath="$PROJECT_DIR$/springboot.iml" />

@@ -3,6 +3,7 @@ package com.springboot.dao;
 import com.springboot.domain.City;
 
 import java.util.List;
+import java.util.Map;
 
 /**
  * Created by wanglu-jf on 17/7/18.
@@ -28,4 +29,6 @@ public interface CityDao {
     Long updateCity(City city);
 
     Long deleteCity(Long id);
+
+    List<Map<String,String>> queryAllCity();
 }

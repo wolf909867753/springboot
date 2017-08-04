@@ -4,6 +4,7 @@ import com.springboot.domain.City;
 import com.springboot.utils.customException.CustomerException;
 
 import java.util.List;
+import java.util.Map;
 
 /**
  * Created by wanglu-jf on 17/7/18.
@@ -14,7 +15,9 @@ public interface ICityService {
      *
      * @return
      */
-    List<City> queryAllCity() throws CustomerException;
+    List<City> findAllCity() throws CustomerException;
+
+    List<Map<String,String>> queryAllCity() throws CustomerException;
 
     /**
      * 根据城市 ID,查询城市信息

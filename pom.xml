@@ -18,6 +18,7 @@
     <module>springboot-freemarker</module>
       <module>validation-over-json</module>
       <module>redis</module>
+      <module>redpackage</module>
   </modules>
 
   <name>springboot Maven Webapp</name>

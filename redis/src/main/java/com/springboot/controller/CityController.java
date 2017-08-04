@@ -75,6 +75,11 @@ public class CityController {
     @RequestMapping(value = "/api/index")
     public String index(){
         System.out.println(">>>>>>>>>>>>>>>>>>>>>>>>");
+        try {
+            this.cityService.queryAllCity();
+        } catch (CustomerException e) {
+            e.printStackTrace();
+        }
         return "index";
     }
 }
