@@ -26,7 +26,7 @@
       <module>Spring-data-jpa</module>
   </modules>
 
-  <name>springboot Maven Webapp</name>
+  <name>springboot</name>
   <url>http://maven.apache.org</url>
 
 
