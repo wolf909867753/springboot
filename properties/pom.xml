@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
     <artifactId>properties</artifactId>
     <packaging>war</packaging>
-    <name>springboot-properties Demo</name>
+    <name>springboot-properties</name>
     <url>http://maven.apache.org</url>
 
     <!-- Spring Boot 启动父依赖 -->

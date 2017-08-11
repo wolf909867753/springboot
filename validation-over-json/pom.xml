@@ -10,7 +10,7 @@
     <modelVersion>4.0.0</modelVersion>
     <artifactId>validation-over-json</artifactId>
     <packaging>war</packaging>
-    <name>validation-over-json</name>
+    <name>springboot-validation-over-json</name>
     <url>http://maven.apache.org</url>
 
     <properties>

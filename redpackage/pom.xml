@@ -8,7 +8,7 @@
     <modelVersion>4.0.0</modelVersion>
     <artifactId>redpackage</artifactId>
     <packaging>war</packaging>
-    <name>redpackage Maven Webapp</name>
+    <name>springboot-redpackage</name>
     <url>http://maven.apache.org</url>
     <description>抢红包的红包生成算法</description>
     <dependencies>

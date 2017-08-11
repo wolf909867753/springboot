@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
     <artifactId>runnerDesc</artifactId>
     <packaging>war</packaging>
-    <name>springboot-runnerDesc (CommandLineRunner and ApplicationRunner)Demo</name>
+    <name>springboot-runnerDesc</name>
     <url>http://maven.apache.org</url>
 
     <!-- Spring Boot 启动父依赖 -->

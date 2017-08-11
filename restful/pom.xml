@@ -11,7 +11,7 @@
     <modelVersion>4.0.0</modelVersion>
     <artifactId>restful</artifactId>
     <packaging>war</packaging>
-    <name>springboot-restful :: Springboot 实现 Restful 服务，基于 HTTP / JSON 传输 Demo</name>
+    <name>springboot-restful</name>
     <url>http://maven.apache.org</url>
 
     <properties>

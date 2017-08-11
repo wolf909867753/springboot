@@ -134,6 +134,7 @@
 8.springboot-freemarker
 
 9.validation-over-json
+    统一异常处理
     参考\src\main\java\com\springboot\utils\customException的代码，简单
 
 10.redis

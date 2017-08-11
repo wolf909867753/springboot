@@ -14,11 +14,16 @@
     <module>restful</module>
     <module>mybaits</module>
     <module>mybatis-annotation</module>
-      <module>mybatis-mutil-datasource</module>
+    <module>mybatis-mutil-datasource</module>
     <module>springboot-freemarker</module>
-      <module>validation-over-json</module>
-      <module>redis</module>
-      <module>redpackage</module>
+    <module>validation-over-json</module>
+    <module>redis</module>
+    <module>redpackage</module>
+    <module>thymeleaf</module>
+    <module>velocitydemo</module>
+      <module>swagger</module>
+      <module>jdbc</module>
+      <module>Spring-data-jpa</module>
   </modules>
 
   <name>springboot Maven Webapp</name>

@@ -1,6 +1,0 @@
-#键值对冒号后面，必须空一格。否则将会抛出以下异常：
-#Caused by: java.lang.IllegalArgumentException: Could not resolve placeholder 'home.province' in string value "${home.province}"
-home:
-  province : 山东省
-  city : 潍坊市
-  desc : 我来自${home.province}${home.city}.

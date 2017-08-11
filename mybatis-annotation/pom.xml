@@ -9,7 +9,7 @@
     <modelVersion>4.0.0</modelVersion>
     <artifactId>mybatis-annotation</artifactId>
     <packaging>war</packaging>
-    <name>springboot-mybatis-annotation Demo</name>
+    <name>springboot-mybatis-annotation</name>
     <url>http://maven.apache.org</url>
 
     <properties>

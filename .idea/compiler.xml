@@ -23,6 +23,7 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="helloWorld" />
+        <module name="jdbc" />
         <module name="mybaits" />
         <module name="mybatis-annotation" />
         <module name="mybatis-mutil-datasource" />
@@ -32,13 +33,18 @@
         <module name="restful" />
         <module name="runnerDesc" />
         <module name="shiro" />
+        <module name="Spring-data-jpa" />
         <module name="springboot-freemarker" />
+        <module name="swagger" />
+        <module name="thymeleaf" />
         <module name="validation-over-json" />
+        <module name="velocity" />
+        <module name="velocitydemo" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="freemarker" target="1.7" />
+    <bytecodeTargetLevel target="1.7">
       <module name="helloWorld" target="1.7" />
+      <module name="jdbc" target="1.7" />
       <module name="mybaits" target="1.7" />
       <module name="mybatis-annotation" target="1.7" />
       <module name="mybatis-mutil-datasource" target="1.7" />
@@ -47,10 +53,13 @@
       <module name="redpackage" target="1.7" />
       <module name="restful" target="1.7" />
       <module name="runnerDesc" target="1.7" />
-      <module name="shiro" target="1.7" />
+      <module name="Spring-data-jpa" target="1.7" />
       <module name="springboot" target="1.7" />
       <module name="springboot-freemarker" target="1.7" />
+      <module name="swagger" target="1.7" />
+      <module name="thymeleaf" target="1.7" />
       <module name="validation-over-json" target="1.7" />
+      <module name="velocitydemo" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>

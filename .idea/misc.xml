@@ -6,6 +6,7 @@
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/freemarker" />
     <file type="web" url="file://$PROJECT_DIR$/helloWorld" />
+    <file type="web" url="file://$PROJECT_DIR$/jdbc" />
     <file type="web" url="file://$PROJECT_DIR$/mybaits" />
     <file type="web" url="file://$PROJECT_DIR$/mybatis-annotation" />
     <file type="web" url="file://$PROJECT_DIR$/mybatis-mutil-datasource" />
@@ -15,8 +16,13 @@
     <file type="web" url="file://$PROJECT_DIR$/restful" />
     <file type="web" url="file://$PROJECT_DIR$/runnerDesc" />
     <file type="web" url="file://$PROJECT_DIR$/shiro" />
+    <file type="web" url="file://$PROJECT_DIR$/Spring-data-jpa" />
     <file type="web" url="file://$PROJECT_DIR$/springboot-freemarker" />
+    <file type="web" url="file://$PROJECT_DIR$/swagger" />
+    <file type="web" url="file://$PROJECT_DIR$/thymeleaf" />
     <file type="web" url="file://$PROJECT_DIR$/validation-over-json" />
+    <file type="web" url="file://$PROJECT_DIR$/velocity" />
+    <file type="web" url="file://$PROJECT_DIR$/velocitydemo" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
@@ -27,6 +33,7 @@
     <option name="ignoredFiles">
       <set>
         <option value="$PROJECT_DIR$/freemarker/pom.xml" />
+        <option value="$PROJECT_DIR$/velocity/pom.xml" />
       </set>
     </option>
   </component>
