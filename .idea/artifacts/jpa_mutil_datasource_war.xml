@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="jpa-mutil-datasource:war">
+    <output-path>$PROJECT_DIR$/jpa-mutil-datasource/target</output-path>
+    <root id="archive" name="springboot-jpa-mutil-datasource.war">
+      <element id="artifact" artifact-name="jpa-mutil-datasource:war exploded" />
+    </root>
+  </artifact>
+</component>

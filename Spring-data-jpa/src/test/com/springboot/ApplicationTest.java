@@ -8,8 +8,6 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.test.context.junit4.SpringRunner;
 
-import java.util.List;
-
 /**
  * Created by wanglu-jf on 17/8/11.
  */
@@ -29,8 +27,8 @@ public class ApplicationTest {
     @Test
     public void saveCity(){
         City city = new City();
-        List<City> list = this.cityService.findAll();
-        city.setId(Long.valueOf(list.size()+1));
+//        List<City> list = this.cityService.findAll();
+//        city.setId(Long.valueOf(list.size()+1));
         city.setDescription("我爱北京天安门");
         city.setProvinceId(4L);
         city.setCityName("潍坊市");

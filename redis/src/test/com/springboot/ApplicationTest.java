@@ -1,6 +1,5 @@
-package com.com.springboot;
+package com.springboot;
 
-import com.springboot.Application;
 import com.springboot.service.ICityService;
 import com.springboot.utils.customException.CustomerException;
 import org.apache.log4j.Logger;
@@ -35,4 +34,6 @@ public class ApplicationTest {
             e.printStackTrace();
         }
     }
+
+
 }

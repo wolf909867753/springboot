@@ -7,6 +7,8 @@
     <file type="web" url="file://$PROJECT_DIR$/freemarker" />
     <file type="web" url="file://$PROJECT_DIR$/helloWorld" />
     <file type="web" url="file://$PROJECT_DIR$/jdbc" />
+    <file type="web" url="file://$PROJECT_DIR$/jdbc-mutil-datasource" />
+    <file type="web" url="file://$PROJECT_DIR$/jpa-mutil-datasource" />
     <file type="web" url="file://$PROJECT_DIR$/mybaits" />
     <file type="web" url="file://$PROJECT_DIR$/mybatis-annotation" />
     <file type="web" url="file://$PROJECT_DIR$/mybatis-mutil-datasource" />

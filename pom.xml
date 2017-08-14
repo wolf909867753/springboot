@@ -24,6 +24,8 @@
       <module>swagger</module>
       <module>jdbc</module>
       <module>Spring-data-jpa</module>
+      <module>jdbc-mutil-datasource</module>
+      <module>jpa-mutil-datasource</module>
   </modules>
 
   <name>springboot</name>
