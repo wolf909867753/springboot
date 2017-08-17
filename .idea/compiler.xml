@@ -34,6 +34,8 @@
         <module name="redpackage" />
         <module name="restful" />
         <module name="runnerDesc" />
+        <module name="security" />
+        <module name="security-mybatis" />
         <module name="shiro" />
         <module name="Spring-data-jpa" />
         <module name="springboot-freemarker" />
@@ -57,6 +59,8 @@
       <module name="redpackage" target="1.7" />
       <module name="restful" target="1.7" />
       <module name="runnerDesc" target="1.7" />
+      <module name="security" target="1.7" />
+      <module name="security-mybatis" target="1.7" />
       <module name="Spring-data-jpa" target="1.7" />
       <module name="springboot" target="1.7" />
       <module name="springboot-freemarker" target="1.7" />

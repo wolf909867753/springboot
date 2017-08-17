@@ -16,6 +16,8 @@
       <module fileurl="file://$PROJECT_DIR$/redpackage/redpackage.iml" filepath="$PROJECT_DIR$/redpackage/redpackage.iml" />
       <module fileurl="file://$PROJECT_DIR$/restful/restful.iml" filepath="$PROJECT_DIR$/restful/restful.iml" />
       <module fileurl="file://$PROJECT_DIR$/runnerDesc/runnerDesc.iml" filepath="$PROJECT_DIR$/runnerDesc/runnerDesc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/security/security.iml" filepath="$PROJECT_DIR$/security/security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/security-mybatis/security-mybatis.iml" filepath="$PROJECT_DIR$/security-mybatis/security-mybatis.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot.iml" filepath="$PROJECT_DIR$/springboot.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-freemarker/springboot-freemarker.iml" filepath="$PROJECT_DIR$/springboot-freemarker/springboot-freemarker.iml" />
       <module fileurl="file://$PROJECT_DIR$/swagger/swagger.iml" filepath="$PROJECT_DIR$/swagger/swagger.iml" />

@@ -26,6 +26,8 @@
       <module>Spring-data-jpa</module>
       <module>jdbc-mutil-datasource</module>
       <module>jpa-mutil-datasource</module>
+      <module>security</module>
+      <module>security-mybatis</module>
   </modules>
 
   <name>springboot</name>

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="security:war">
+    <output-path>$PROJECT_DIR$/security/target</output-path>
+    <root id="archive" name="springboot-security.war">
+      <element id="artifact" artifact-name="security:war exploded" />
+    </root>
+  </artifact>
+</component>

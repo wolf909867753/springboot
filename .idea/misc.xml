@@ -17,6 +17,8 @@
     <file type="web" url="file://$PROJECT_DIR$/redpackage" />
     <file type="web" url="file://$PROJECT_DIR$/restful" />
     <file type="web" url="file://$PROJECT_DIR$/runnerDesc" />
+    <file type="web" url="file://$PROJECT_DIR$/security" />
+    <file type="web" url="file://$PROJECT_DIR$/security-mybatis" />
     <file type="web" url="file://$PROJECT_DIR$/shiro" />
     <file type="web" url="file://$PROJECT_DIR$/Spring-data-jpa" />
     <file type="web" url="file://$PROJECT_DIR$/springboot-freemarker" />
