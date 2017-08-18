@@ -8,7 +8,7 @@ import org.springframework.context.annotation.ComponentScan;
  * Created by wanglu-jf on 17/8/17.
  */
 @SpringBootApplication
-@ComponentScan(value = {"com.springboot.controller","com.springboot.service","com.springboot.dao"})
+@ComponentScan(value = {"com.springboot"})
 public class Application {
 
     public static void main(String[] args) {

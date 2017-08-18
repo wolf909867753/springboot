@@ -42,6 +42,7 @@ public class WebSecurityConfig extends WebSecurityConfigurerAdapter {
     protected void configure(HttpSecurity http) throws Exception {
         http.authorizeRequests()
                 .antMatchers("/","/home").permitAll()//访问：/home 无需登录认证权限
+                .antMatchers("/static/**","/favicon.ico").permitAll()
                 /*.antMatchers("/favicon.ico").permitAll()*/
                 .anyRequest().authenticated() //任何请求,登录后可以访问
                 .and()
