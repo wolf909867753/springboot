@@ -2,6 +2,7 @@ package com.springboot.config;
 
 import com.mchange.v2.c3p0.ComboPooledDataSource;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.core.env.Environment;
@@ -12,7 +13,9 @@ import java.beans.PropertyVetoException;
  * Created by wanglu on 17/8/17.
  */
 @Configuration
-public class DBconfig {
+@ConfigurationProperties
+public class DBconfig /*implements EnvironmentAware */{
+
     @Autowired
     private Environment env;
 
@@ -31,4 +34,20 @@ public class DBconfig {
         dataSource.setIdleConnectionTestPeriod(60);
         return dataSource;
     }
+
+//
+//    @Bean
+//    public DataSource dataSource(){
+//        DruidDataSource dataSource = new DruidDataSource();
+//        dataSource.setDriverClassName(env.getProperty("ms.db.driverClassName"));
+//        dataSource.setUrl(env.getProperty("ms.db.url"));
+//        dataSource.setUsername(env.getProperty("ms.db.username"));
+//        dataSource.setPassword(env.getProperty("ms.db.password"));
+//        return dataSource;
+//    }
+
+//    @Override
+//    public void setEnvironment(Environment environment) {
+//        this.env = environment;
+//    }
 }

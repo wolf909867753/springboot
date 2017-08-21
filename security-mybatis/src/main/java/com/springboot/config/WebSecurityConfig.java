@@ -1,6 +1,6 @@
 package com.springboot.config;
 
-import com.springboot.security.CustomUserService;
+import com.springboot.service.CustomUserService;
 import com.springboot.utils.MD5Util;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
@@ -41,7 +41,7 @@ public class WebSecurityConfig extends WebSecurityConfigurerAdapter {
     @Override
     protected void configure(HttpSecurity http) throws Exception {
         http.authorizeRequests()
-                .antMatchers("/","/home").permitAll()//访问：/home 无需登录认证权限
+                /*.antMatchers("/","/home").permitAll()*///访问：/home 无需登录认证权限
                 .antMatchers("/static/**","/favicon.ico").permitAll()
                 /*.antMatchers("/favicon.ico").permitAll()*/
                 .anyRequest().authenticated() //任何请求,登录后可以访问
