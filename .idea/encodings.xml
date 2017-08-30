@@ -20,5 +20,6 @@
     <file url="file://$PROJECT_DIR$/thymeleaf" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/validation-over-json" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/velocitydemo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/websocket" charset="UTF-8" />
   </component>
 </project>

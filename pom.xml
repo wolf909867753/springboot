@@ -28,6 +28,7 @@
       <module>jpa-mutil-datasource</module>
       <module>security</module>
       <module>security-mybatis</module>
+      <module>websocket</module>
   </modules>
 
   <name>springboot</name>

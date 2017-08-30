@@ -2,132 +2,60 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b45a0376-1fd7-4fd9-a992-a4ef8bdcd422" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_6_0_5.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/security-mybatis/target/classes/applicaiton.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/security-mybatis/target/classes/com/springboot/security/CustomUserService.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/security-mybatis/target/maven-archiver/pom.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/security-mybatis/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/security-mybatis/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/security-mybatis/target/springboot-security-mybatis.war" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/security-mybatis/target/springboot-security-mybatis/WEB-INF/classes/applicaiton.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/security-mybatis/target/springboot-security-mybatis/WEB-INF/classes/com/springboot/Application.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/security-mybatis/target/springboot-security-mybatis/WEB-INF/classes/com/springboot/config/DBconfig.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/security-mybatis/target/springboot-security-mybatis/WEB-INF/classes/com/springboot/config/MyBatisConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/security-mybatis/target/springboot-security-mybatis/WEB-INF/classes/com/springboot/config/MyBatisScannerConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/security-mybatis/target/springboot-security-mybatis/WEB-INF/classes/com/springboot/config/TransactionConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/security-mybatis/target/springboot-security-mybatis/WEB-INF/classes/com/springboot/config/WebMvcConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/security-mybatis/target/springboot-security-mybatis/WEB-INF/classes/com/springboot/config/WebSecurityConfig$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/security-mybatis/target/springboot-security-mybatis/WEB-INF/classes/com/springboot/config/WebSecurityConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/security-mybatis/target/springboot-security-mybatis/WEB-INF/classes/com/springboot/controller/HomeController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/security-mybatis/target/springboot-security-mybatis/WEB-INF/classes/com/springboot/dao/UserDao.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/security-mybatis/target/springboot-security-mybatis/WEB-INF/classes/com/springboot/domain/Msg.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/security-mybatis/target/springboot-security-mybatis/WEB-INF/classes/com/springboot/domain/SysRole.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/security-mybatis/target/springboot-security-mybatis/WEB-INF/classes/com/springboot/domain/SysUser.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/security-mybatis/target/springboot-security-mybatis/WEB-INF/classes/com/springboot/security/CustomUserService.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/security-mybatis/target/springboot-security-mybatis/WEB-INF/classes/com/springboot/utils/MD5Util.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/security-mybatis/target/springboot-security-mybatis/WEB-INF/classes/mapper/UserDaoMapper.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/security-mybatis/target/springboot-security-mybatis/WEB-INF/classes/static/css/bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/security-mybatis/target/springboot-security-mybatis/WEB-INF/classes/templates/home.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/security-mybatis/target/springboot-security-mybatis/WEB-INF/classes/templates/login.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/security-mybatis/target/springboot-security-mybatis/WEB-INF/lib/c3p0-0.9.5.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/security-mybatis/target/springboot-security-mybatis/WEB-INF/lib/classmate-1.3.3.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/security-mybatis/target/springboot-security-mybatis/WEB-INF/lib/groovy-2.4.12.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/security-mybatis/target/springboot-security-mybatis/WEB-INF/lib/hibernate-validator-5.3.5.Final.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/security-mybatis/target/springboot-security-mybatis/WEB-INF/lib/jackson-annotations-2.8.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/security-mybatis/target/springboot-security-mybatis/WEB-INF/lib/jackson-core-2.8.9.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/security-mybatis/target/springboot-security-mybatis/WEB-INF/lib/jackson-databind-2.8.9.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/security-mybatis/target/springboot-security-mybatis/WEB-INF/lib/javassist-3.21.0-GA.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/security-mybatis/target/springboot-security-mybatis/WEB-INF/lib/jboss-logging-3.3.1.Final.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/security-mybatis/target/springboot-security-mybatis/WEB-INF/lib/jcl-over-slf4j-1.7.25.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/security-mybatis/target/springboot-security-mybatis/WEB-INF/lib/jul-to-slf4j-1.7.25.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/security-mybatis/target/springboot-security-mybatis/WEB-INF/lib/log4j-over-slf4j-1.7.25.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/security-mybatis/target/springboot-security-mybatis/WEB-INF/lib/logback-classic-1.1.11.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/security-mybatis/target/springboot-security-mybatis/WEB-INF/lib/logback-core-1.1.11.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/security-mybatis/target/springboot-security-mybatis/WEB-INF/lib/mchange-commons-java-0.2.11.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/security-mybatis/target/springboot-security-mybatis/WEB-INF/lib/mybatis-3.2.7.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/security-mybatis/target/springboot-security-mybatis/WEB-INF/lib/mybatis-spring-1.2.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/security-mybatis/target/springboot-security-mybatis/WEB-INF/lib/mysql-connector-java-6.0.5.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/security-mybatis/target/springboot-security-mybatis/WEB-INF/lib/ognl-3.0.8.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/security-mybatis/target/springboot-security-mybatis/WEB-INF/lib/slf4j-api-1.7.25.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/security-mybatis/target/springboot-security-mybatis/WEB-INF/lib/snakeyaml-1.17.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/security-mybatis/target/springboot-security-mybatis/WEB-INF/lib/spring-aop-4.3.10.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/security-mybatis/target/springboot-security-mybatis/WEB-INF/lib/spring-beans-4.3.10.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/security-mybatis/target/springboot-security-mybatis/WEB-INF/lib/spring-boot-1.5.6.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/security-mybatis/target/springboot-security-mybatis/WEB-INF/lib/spring-boot-autoconfigure-1.5.6.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/security-mybatis/target/springboot-security-mybatis/WEB-INF/lib/spring-boot-starter-1.5.6.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/security-mybatis/target/springboot-security-mybatis/WEB-INF/lib/spring-boot-starter-logging-1.5.6.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/security-mybatis/target/springboot-security-mybatis/WEB-INF/lib/spring-boot-starter-security-1.5.6.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/security-mybatis/target/springboot-security-mybatis/WEB-INF/lib/spring-boot-starter-thymeleaf-1.5.6.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/security-mybatis/target/springboot-security-mybatis/WEB-INF/lib/spring-boot-starter-tomcat-1.5.6.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/security-mybatis/target/springboot-security-mybatis/WEB-INF/lib/spring-boot-starter-web-1.5.6.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/security-mybatis/target/springboot-security-mybatis/WEB-INF/lib/spring-context-4.3.10.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/security-mybatis/target/springboot-security-mybatis/WEB-INF/lib/spring-core-4.3.10.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/security-mybatis/target/springboot-security-mybatis/WEB-INF/lib/spring-expression-4.3.10.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/security-mybatis/target/springboot-security-mybatis/WEB-INF/lib/spring-jdbc-4.3.10.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/security-mybatis/target/springboot-security-mybatis/WEB-INF/lib/spring-security-config-4.2.3.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/security-mybatis/target/springboot-security-mybatis/WEB-INF/lib/spring-security-core-4.2.3.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/security-mybatis/target/springboot-security-mybatis/WEB-INF/lib/spring-security-web-4.2.3.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/security-mybatis/target/springboot-security-mybatis/WEB-INF/lib/spring-tx-4.3.10.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/security-mybatis/target/springboot-security-mybatis/WEB-INF/lib/spring-web-4.3.10.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/security-mybatis/target/springboot-security-mybatis/WEB-INF/lib/spring-webmvc-4.3.10.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/security-mybatis/target/springboot-security-mybatis/WEB-INF/lib/thymeleaf-2.1.5.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/security-mybatis/target/springboot-security-mybatis/WEB-INF/lib/thymeleaf-extras-springsecurity4-2.1.3.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/security-mybatis/target/springboot-security-mybatis/WEB-INF/lib/thymeleaf-layout-dialect-1.4.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/security-mybatis/target/springboot-security-mybatis/WEB-INF/lib/thymeleaf-spring4-2.1.5.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/security-mybatis/target/springboot-security-mybatis/WEB-INF/lib/tomcat-embed-core-8.5.16.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/security-mybatis/target/springboot-security-mybatis/WEB-INF/lib/tomcat-embed-el-8.5.16.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/security-mybatis/target/springboot-security-mybatis/WEB-INF/lib/tomcat-embed-websocket-8.5.16.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/security-mybatis/target/springboot-security-mybatis/WEB-INF/lib/unbescape-1.1.0.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/security-mybatis/target/springboot-security-mybatis/WEB-INF/lib/validation-api-1.1.0.Final.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/security-mybatis/target/springboot-security-mybatis/WEB-INF/web.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/security-mybatis/target/springboot-security-mybatis/index.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/security/target/classes/com/springboot/utils/ApplicationContextUtils.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/security/target/classes/com/springboot/utils/HttpUtils.class" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/websocket_war.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/websocket_war_exploded.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis/src/main/webapp/WEB-INF/jsps/index.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/security-mybatis/sql.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/security-mybatis/src/main/java/com/springboot/dao/PermissionDao.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/security-mybatis/src/main/java/com/springboot/domain/Permission.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/security-mybatis/src/main/java/com/springboot/domain/User.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/security-mybatis/src/main/java/com/springboot/filters/MyFilterSecurityInterceptor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/security-mybatis/src/main/java/com/springboot/service/MyAccessDecisionManager.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/security-mybatis/src/main/java/com/springboot/service/MyGrantedAuthority.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/security-mybatis/src/main/java/com/springboot/service/MyInvocationSecurityMetadataSourceService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/security-mybatis/src/main/resources/mapper/PermissionDaoMapper.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/security-mybatis/src/test/com/test/thread/Girl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/security-mybatis/src/test/com/test/thread/Iperson.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/security-mybatis/src/test/com/test/thread/ManProxy.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/security-mybatis/src/test/com/test/thread/Person.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/security-mybatis/src/test/com/test/thread/ThreadTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/security-mybatis/src/test/com/test/thread/man.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/security-mybatis/src/test/com/test/thread/sequence.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springboot-freemarker/src/main/resources/web/index.ftl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/websocket/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/websocket/websocket.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/redis/target/classes/com/springboot/Application.class" afterPath="$PROJECT_DIR$/redis/target/classes/com/springboot/Application.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/security-mybatis/target/classes/com/springboot/Application.class" afterPath="$PROJECT_DIR$/security-mybatis/target/classes/com/springboot/Application.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/security-mybatis/target/classes/com/springboot/config/DBconfig.class" afterPath="$PROJECT_DIR$/security-mybatis/target/classes/com/springboot/config/DBconfig.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/security-mybatis/target/classes/com/springboot/config/WebMvcConfig.class" afterPath="$PROJECT_DIR$/security-mybatis/target/classes/com/springboot/config/WebMvcConfig.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/security-mybatis/target/classes/com/springboot/config/WebSecurityConfig$1.class" afterPath="$PROJECT_DIR$/security-mybatis/target/classes/com/springboot/config/WebSecurityConfig$1.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/security-mybatis/target/classes/com/springboot/config/WebSecurityConfig.class" afterPath="$PROJECT_DIR$/security-mybatis/target/classes/com/springboot/config/WebSecurityConfig.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/security-mybatis/target/classes/com/springboot/utils/MD5Util.class" afterPath="$PROJECT_DIR$/security-mybatis/target/classes/com/springboot/utils/MD5Util.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/security/target/classes/com/springboot/Application.class" afterPath="$PROJECT_DIR$/security/target/classes/com/springboot/Application.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/security/target/classes/com/springboot/config/security/CustomUserDetailsService.class" afterPath="$PROJECT_DIR$/security/target/classes/com/springboot/config/security/CustomUserDetailsService.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/security/target/classes/com/springboot/config/security/LoginSuccessHandler.class" afterPath="$PROJECT_DIR$/security/target/classes/com/springboot/config/security/LoginSuccessHandler.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/security/target/classes/com/springboot/config/security/MvcConfig.class" afterPath="$PROJECT_DIR$/security/target/classes/com/springboot/config/security/MvcConfig.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/security/target/classes/com/springboot/config/security/SecurityUser.class" afterPath="$PROJECT_DIR$/security/target/classes/com/springboot/config/security/SecurityUser.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/security/target/classes/com/springboot/config/security/WebSecurityConfig$1.class" afterPath="$PROJECT_DIR$/security/target/classes/com/springboot/config/security/WebSecurityConfig$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/security/target/classes/com/springboot/config/security/WebSecurityConfig.class" afterPath="$PROJECT_DIR$/security/target/classes/com/springboot/config/security/WebSecurityConfig.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/security/target/classes/com/springboot/controller/HelloController.class" afterPath="$PROJECT_DIR$/security/target/classes/com/springboot/controller/HelloController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/security/target/classes/com/springboot/dao/SysUserDao.class" afterPath="$PROJECT_DIR$/security/target/classes/com/springboot/dao/SysUserDao.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/security/target/classes/com/springboot/domain/SysResource.class" afterPath="$PROJECT_DIR$/security/target/classes/com/springboot/domain/SysResource.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/security/target/classes/com/springboot/domain/SysResourceRole.class" afterPath="$PROJECT_DIR$/security/target/classes/com/springboot/domain/SysResourceRole.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/security/target/classes/com/springboot/domain/SysRole.class" afterPath="$PROJECT_DIR$/security/target/classes/com/springboot/domain/SysRole.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/security/target/classes/com/springboot/domain/SysUser.class" afterPath="$PROJECT_DIR$/security/target/classes/com/springboot/domain/SysUser.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/security/target/classes/com/springboot/domain/SysUserRole.class" afterPath="$PROJECT_DIR$/security/target/classes/com/springboot/domain/SysUserRole.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/security/target/classes/com/springboot/service/UserService.class" afterPath="$PROJECT_DIR$/security/target/classes/com/springboot/service/UserService.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/security/target/test-classes/com/springboot/service/UserServiceTest.class" afterPath="$PROJECT_DIR$/security/target/test-classes/com/springboot/service/UserServiceTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/security_mybatis_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/security_mybatis_war_exploded.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/security-mybatis/target/classes/com/springboot/controller/HomeController.class" afterPath="$PROJECT_DIR$/security-mybatis/target/classes/com/springboot/controller/HomeController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/security-mybatis/target/classes/com/springboot/domain/SysRole.class" afterPath="$PROJECT_DIR$/security-mybatis/target/classes/com/springboot/domain/SysRole.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/security-mybatis/target/classes/com/springboot/domain/SysUser.class" afterPath="$PROJECT_DIR$/security-mybatis/target/classes/com/springboot/domain/SysUser.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/security-mybatis/target/classes/com/springboot/service/CustomUserService.class" afterPath="$PROJECT_DIR$/security-mybatis/target/classes/com/springboot/service/CustomUserService.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Spring-data-jpa/target/classes/application.properties" afterPath="$PROJECT_DIR$/Spring-data-jpa/target/classes/application.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jdbc/target/classes/application.properties" afterPath="$PROJECT_DIR$/jdbc/target/classes/application.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mybaits/target/classes/application.properties" afterPath="$PROJECT_DIR$/mybaits/target/classes/application.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mybatis-annotation/target/classes/application.properties" afterPath="$PROJECT_DIR$/mybatis-annotation/target/classes/application.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mybatis-mutil-datasource/target/classes/application.properties" afterPath="$PROJECT_DIR$/mybatis-mutil-datasource/target/classes/application.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/properties/target/classes/application-dev.properties" afterPath="$PROJECT_DIR$/properties/target/classes/application-dev.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/properties/target/classes/application-pro.properties" afterPath="$PROJECT_DIR$/properties/target/classes/application-pro.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/properties/target/classes/application.properties" afterPath="$PROJECT_DIR$/properties/target/classes/application.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/redis/src/main/java/com/springboot/Application.java" afterPath="$PROJECT_DIR$/redis/src/main/java/com/springboot/Application.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/redis/src/main/resources/application.properties" afterPath="$PROJECT_DIR$/redis/src/main/resources/application.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/redis/target/classes/application.properties" afterPath="$PROJECT_DIR$/redis/target/classes/application.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/restful/target/classes/application.properties" afterPath="$PROJECT_DIR$/restful/target/classes/application.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/security-mybatis/pom.xml" afterPath="$PROJECT_DIR$/security-mybatis/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/security-mybatis/security-mybatis.iml" afterPath="$PROJECT_DIR$/security-mybatis/security-mybatis.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/security-mybatis/src/main/java/com/springboot/Application.java" afterPath="$PROJECT_DIR$/security-mybatis/src/main/java/com/springboot/Application.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/security-mybatis/src/main/java/com/springboot/config/DBconfig.java" afterPath="$PROJECT_DIR$/security-mybatis/src/main/java/com/springboot/config/DBconfig.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/security-mybatis/src/main/java/com/springboot/config/WebMvcConfig.java" afterPath="$PROJECT_DIR$/security-mybatis/src/main/java/com/springboot/config/WebMvcConfig.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/security-mybatis/src/main/java/com/springboot/config/WebSecurityConfig.java" afterPath="$PROJECT_DIR$/security-mybatis/src/main/java/com/springboot/config/WebSecurityConfig.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/security-mybatis/src/main/java/com/springboot/utils/MD5Util.java" afterPath="$PROJECT_DIR$/security-mybatis/src/main/java/com/springboot/utils/MD5Util.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/security-mybatis/src/main/java/com/springboot/controller/HomeController.java" afterPath="$PROJECT_DIR$/security-mybatis/src/main/java/com/springboot/controller/HomeController.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/security-mybatis/src/main/java/com/springboot/dao/UserDao.java" afterPath="$PROJECT_DIR$/security-mybatis/src/main/java/com/springboot/dao/UserDao.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/security-mybatis/src/main/java/com/springboot/domain/SysRole.java" afterPath="$PROJECT_DIR$/security-mybatis/src/main/java/com/springboot/domain/SysRole.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/security-mybatis/src/main/java/com/springboot/domain/SysUser.java" afterPath="$PROJECT_DIR$/security-mybatis/src/main/java/com/springboot/domain/SysUser.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/security-mybatis/src/main/java/com/springboot/service/CustomUserService.java" afterPath="$PROJECT_DIR$/security-mybatis/src/main/java/com/springboot/service/CustomUserService.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/security-mybatis/src/main/resources/mapper/UserDaoMapper.xml" afterPath="$PROJECT_DIR$/security-mybatis/src/main/resources/mapper/UserDaoMapper.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/security-mybatis/src/main/resources/templates/home.html" afterPath="$PROJECT_DIR$/security-mybatis/src/main/resources/templates/home.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/security-mybatis/src/main/resources/templates/login.html" afterPath="$PROJECT_DIR$/security-mybatis/src/main/resources/templates/login.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/security-mybatis/target/classes/mapper/UserDaoMapper.xml" afterPath="$PROJECT_DIR$/security-mybatis/target/classes/mapper/UserDaoMapper.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/security/target/classes/application.properties" afterPath="$PROJECT_DIR$/security/target/classes/application.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/springboot-freemarker/target/classes/application.properties" afterPath="$PROJECT_DIR$/springboot-freemarker/target/classes/application.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/validation-over-json/target/classes/application.properties" afterPath="$PROJECT_DIR$/validation-over-json/target/classes/application.properties" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/security-mybatis/src/main/java/com/springboot/security/CustomUserService.java" afterPath="$PROJECT_DIR$/security-mybatis/src/main/java/com/springboot/service/CustomUserService.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/security-mybatis/src/main/resources/applicaiton.properties" afterPath="$PROJECT_DIR$/security-mybatis/src/main/resources/application.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/security-mybatis/target/classes/templates/home.html" afterPath="$PROJECT_DIR$/security-mybatis/target/classes/templates/home.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/security-mybatis/target/classes/templates/login.html" afterPath="$PROJECT_DIR$/security-mybatis/target/classes/templates/login.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/velocitydemo/velocitydemo.iml" afterPath="$PROJECT_DIR$/velocitydemo/velocitydemo.iml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -155,6 +83,7 @@
     <ignored path="$PROJECT_DIR$/jpa-mutil-datasource/target/" />
     <ignored path="$PROJECT_DIR$/security/target/" />
     <ignored path="$PROJECT_DIR$/security-mybatis/target/" />
+    <ignored path="$PROJECT_DIR$/websocket/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -187,48 +116,82 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="DBconfig.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/security-mybatis/src/main/java/com/springboot/config/DBconfig.java">
+      <file leaf-file-name="ICityDao.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Spring-data-jpa/src/main/java/com/springboot/dao/ICityDao.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="164">
-              <caret line="37" column="2" selection-start-line="37" selection-start-column="2" selection-end-line="37" selection-end-column="2" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MyBatisScannerConfig.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/security-mybatis/src/main/java/com/springboot/config/MyBatisScannerConfig.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-              <folding>
-                <marker date="1503285009901" expanded="true" signature="610:615" ph="//..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/security-mybatis/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="18" column="58" selection-start-line="18" selection-start-column="58" selection-end-line="18" selection-end-column="58" />
+            <state relative-caret-position="275">
+              <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MyBatisConfig.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/security-mybatis/src/main/java/com/springboot/config/MyBatisConfig.java">
+      <file leaf-file-name="Application.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Spring-data-jpa/src/main/java/com/springboot/Application.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="18" column="3" selection-start-line="18" selection-start-column="3" selection-end-line="25" selection-end-column="5" />
-              <folding>
-                <marker date="1503285009899" expanded="true" signature="1002:1007" ph="//..." />
-              </folding>
+            <state relative-caret-position="200">
+              <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CityServiceImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Spring-data-jpa/src/main/java/com/springboot/service/impl/CityServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="319">
+              <caret line="34" column="26" selection-start-line="34" selection-start-column="26" selection-end-line="34" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Spring-data-jpa/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="250">
+              <caret line="10" column="37" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WebSecurityConfig.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/security-mybatis/src/main/java/com/springboot/config/WebSecurityConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="294">
+              <caret line="48" column="0" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HomeController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/security-mybatis/src/main/java/com/springboot/controller/HomeController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="350">
+              <caret line="19" column="20" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="City.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Spring-data-jpa/src/main/java/com/springboot/domain/City.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Spring-data-jpa/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="33" column="48" selection-start-line="33" selection-start-column="44" selection-end-line="33" selection-end-column="48" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -239,11 +202,11 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="spring-beans.schema" />
-        <option value="Jsp File" />
         <option value="Enum" />
         <option value="HTML File" />
         <option value="JUnit4 Test Class" />
         <option value="Interface" />
+        <option value="Jsp File" />
         <option value="Class" />
       </list>
     </option>
@@ -259,57 +222,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/security/src/main/java/com/springboot/config/security/support/Appctx.java" />
-        <option value="$PROJECT_DIR$/security/src/main/java/com/springboot/config/security/support/CustomAccessDecisionManager.java" />
-        <option value="$PROJECT_DIR$/security/src/main/java/com/springboot/config/security/ServletInitializer.java" />
-        <option value="$PROJECT_DIR$/security/src/main/java/com/springboot/dao/SResourceVODao.java" />
-        <option value="$PROJECT_DIR$/security/src/test/com/springboot/service/UserServiceTest.java" />
-        <option value="$PROJECT_DIR$/security/src/main/java/com/springboot/dao/SRoleVODao.java" />
-        <option value="$PROJECT_DIR$/security/src/main/java/com/springboot/config/security/support/CustomInvocationSecurityMetadataSourceService.java" />
-        <option value="$PROJECT_DIR$/security/src/main/java/com/springboot/config/security/support/MySecurityFilter.java" />
-        <option value="$PROJECT_DIR$/security/src/main/java/com/springboot/dao/SysUserVODao.java" />
-        <option value="$PROJECT_DIR$/security/src/main/java/com/springboot/domain/SysUser.java" />
-        <option value="$PROJECT_DIR$/security/src/main/java/com/springboot/config/security/support/SecurityUser.java" />
-        <option value="$PROJECT_DIR$/security/src/main/java/com/springboot/config/security/support/ICustomUserDetailsService.java" />
-        <option value="$PROJECT_DIR$/security/src/main/java/com/springboot/config/security/support/CustomUserDetailsService.java" />
-        <option value="$PROJECT_DIR$/security/pom.xml" />
-        <option value="$PROJECT_DIR$/security/src/main/java/com/springboot/security/WebSecurityConfig.java" />
-        <option value="$PROJECT_DIR$/security/src/main/java/com/springboot/utils/HttpUtils.java" />
-        <option value="$PROJECT_DIR$/security/src/main/java/com/springboot/security/support/LoginSuccessHandler.java" />
-        <option value="$PROJECT_DIR$/security/src/main/java/com/springboot/security/MvcConfig.java" />
-        <option value="$PROJECT_DIR$/security/src/main/java/com/springboot/config/security/LoginSuccessHandler.java" />
-        <option value="$PROJECT_DIR$/security/src/main/java/com/springboot/config/security/MvcConfig.java" />
-        <option value="$PROJECT_DIR$/security/src/main/java/com/springboot/config/security/SecurityUser.java" />
-        <option value="$PROJECT_DIR$/security/src/main/java/com/springboot/service/UserService.java" />
-        <option value="$PROJECT_DIR$/security/src/main/java/com/springboot/Application.java" />
-        <option value="$PROJECT_DIR$/security/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/security/src/main/java/com/springboot/controller/HelloController.java" />
-        <option value="$PROJECT_DIR$/security/src/main/resources/templates/hello.html" />
-        <option value="$PROJECT_DIR$/security/src/main/resources/templates/index.html" />
         <option value="$PROJECT_DIR$/security/src/main/resources/templates/login.html" />
         <option value="$PROJECT_DIR$/security/src/main/java/com/springboot/config/security/CustomUserDetailsService.java" />
         <option value="$PROJECT_DIR$/security/src/main/java/com/springboot/utils/MD5Util.java" />
         <option value="$PROJECT_DIR$/security/src/main/java/com/springboot/utils/ApplicationContextUtils.java" />
         <option value="$PROJECT_DIR$/security-mybatis/src/main/java/com/springboot/domain/Msg.java" />
-        <option value="$PROJECT_DIR$/security-mybatis/src/main/java/com/springboot/domain/SysRole.java" />
-        <option value="$PROJECT_DIR$/security-mybatis/src/main/java/com/springboot/domain/SysUser.java" />
         <option value="$PROJECT_DIR$/security-mybatis/src/main/java/com/springboot/security/CustomUserService.java" />
         <option value="$PROJECT_DIR$/security/src/main/java/com/springboot/config/security/WebSecurityConfig.java" />
-        <option value="$PROJECT_DIR$/security-mybatis/src/main/java/com/springboot/controller/HomeController.java" />
-        <option value="$PROJECT_DIR$/security-mybatis/src/main/resources/templates/home.html" />
-        <option value="$PROJECT_DIR$/security-mybatis/src/main/java/com/springboot/config/WebMvcConfig.java" />
         <option value="$PROJECT_DIR$/security-mybatis/src/main/java/com/springboot/config/MyBatisConfig.java" />
         <option value="$PROJECT_DIR$/security-mybatis/src/main/java/com/springboot/config/MyBatisScannerConfig.java" />
         <option value="$PROJECT_DIR$/security-mybatis/src/main/java/com/springboot/config/TransactionConfig.java" />
-        <option value="$PROJECT_DIR$/security-mybatis/src/main/java/com/springboot/dao/UserDao.java" />
         <option value="$PROJECT_DIR$/security-mybatis/src/main/resources/applicaiton.properties" />
-        <option value="$PROJECT_DIR$/security-mybatis/src/main/java/com/springboot/config/WebSecurityConfig.java" />
-        <option value="$PROJECT_DIR$/security-mybatis/src/main/resources/mapper/UserDaoMapper.xml" />
-        <option value="$PROJECT_DIR$/security-mybatis/pom.xml" />
-        <option value="$PROJECT_DIR$/security-mybatis/src/main/java/com/springboot/service/CustomUserService.java" />
-        <option value="$PROJECT_DIR$/security-mybatis/src/main/java/com/springboot/Application.java" />
         <option value="$PROJECT_DIR$/security-mybatis/src/main/java/com/springboot/utils/MD5Util.java" />
         <option value="$PROJECT_DIR$/security-mybatis/src/main/java/com/springboot/config/DBconfig.java" />
+        <option value="$PROJECT_DIR$/security-mybatis/sql.sql" />
+        <option value="$PROJECT_DIR$/security-mybatis/src/main/java/com/springboot/domain/SysUser.java" />
+        <option value="$PROJECT_DIR$/security-mybatis/src/main/java/com/springboot/domain/SysRole.java" />
+        <option value="$PROJECT_DIR$/security-mybatis/src/main/java/com/springboot/dao/UserDao.java" />
+        <option value="$PROJECT_DIR$/security-mybatis/src/main/resources/mapper/UserDaoMapper.xml" />
+        <option value="$PROJECT_DIR$/security-mybatis/src/main/java/com/springboot/Application.java" />
+        <option value="$PROJECT_DIR$/security-mybatis/src/main/java/com/springboot/filters/MyFilterSecurityInterceptor.java" />
+        <option value="$PROJECT_DIR$/security-mybatis/src/main/resources/mapper/PermissionDaoMapper.xml" />
+        <option value="$PROJECT_DIR$/security-mybatis/src/main/resources/templates/login.html" />
+        <option value="$PROJECT_DIR$/security-mybatis/src/main/resources/templates/home.html" />
+        <option value="$PROJECT_DIR$/security-mybatis/src/main/java/com/springboot/config/WebMvcConfig.java" />
+        <option value="$PROJECT_DIR$/security-mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/security-mybatis/src/test/com/test/thread/SmallMan.java" />
+        <option value="$PROJECT_DIR$/security-mybatis/src/test/com/test/thread/Man.java" />
+        <option value="$PROJECT_DIR$/security-mybatis/src/test/com/test/thread/Person.java" />
+        <option value="$PROJECT_DIR$/security-mybatis/src/test/com/test/thread/Iperson.java" />
+        <option value="$PROJECT_DIR$/security-mybatis/src/test/com/test/thread/ManProxy.java" />
+        <option value="$PROJECT_DIR$/security-mybatis/src/test/com/test/thread/man.java" />
+        <option value="$PROJECT_DIR$/security-mybatis/src/test/com/test/thread/Girl.java" />
+        <option value="$PROJECT_DIR$/security-mybatis/src/test/com/test/thread/sequence.java" />
+        <option value="$PROJECT_DIR$/security-mybatis/src/test/com/test/thread/ThreadTest.java" />
+        <option value="$PROJECT_DIR$/security-mybatis/src/main/java/com/springboot/domain/Permission.java" />
+        <option value="$PROJECT_DIR$/security-mybatis/src/main/java/com/springboot/service/MyInvocationSecurityMetadataSourceService.java" />
+        <option value="$PROJECT_DIR$/security-mybatis/src/main/java/com/springboot/controller/HomeController.java" />
+        <option value="$PROJECT_DIR$/security-mybatis/src/main/java/com/springboot/service/MyGrantedAuthority.java" />
+        <option value="$PROJECT_DIR$/redis/src/main/java/com/springboot/Application.java" />
+        <option value="$PROJECT_DIR$/redis/src/main/webapp/WEB-INF/jsps/index.jsp" />
+        <option value="$PROJECT_DIR$/redis/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/redis/src/main/java/com/springboot/controller/CityController.java" />
+        <option value="$PROJECT_DIR$/springboot-freemarker/src/main/resources/web/index.ftl" />
+        <option value="$PROJECT_DIR$/security-mybatis/src/main/java/com/springboot/service/MyAccessDecisionManager.java" />
+        <option value="$PROJECT_DIR$/security-mybatis/src/main/java/com/springboot/domain/User.java" />
+        <option value="$PROJECT_DIR$/security-mybatis/src/main/java/com/springboot/config/MYConfig.java" />
+        <option value="$PROJECT_DIR$/security-mybatis/src/main/java/com/springboot/dao/PermissionDao.java" />
+        <option value="$PROJECT_DIR$/security-mybatis/src/main/java/com/springboot/service/CustomUserService.java" />
+        <option value="$PROJECT_DIR$/Spring-data-jpa/src/main/java/com/springboot/dao/ICityDao.java" />
+        <option value="$PROJECT_DIR$/security-mybatis/src/main/java/com/springboot/config/WebSecurityConfig.java" />
+        <option value="$PROJECT_DIR$/websocket/pom.xml" />
       </list>
     </option>
   </component>
@@ -336,7 +299,38 @@
     </option>
   </component>
   <component name="MavenProjectNavigator">
-    <treeState />
+    <treeState>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="springboot-websocket" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Dependencies" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$DependenciesNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="springboot-websocket" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+      </PATH>
+    </treeState>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
@@ -369,8 +363,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -399,279 +394,12 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="security-mybatis" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="springboot" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="springboot" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="security-mybatis" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="springboot" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="springboot" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="security-mybatis" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="springboot" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="springboot" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="security-mybatis" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="springboot" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="springboot" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="security-mybatis" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="springboot" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="springboot" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="springboot" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="security-mybatis" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="springboot" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="service" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="springboot" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="springboot" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="security-mybatis" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="springboot" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="domain" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="springboot" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="springboot" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="security-mybatis" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="springboot" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dao" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="springboot" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="springboot" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="security-mybatis" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="springboot" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="controller" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="springboot" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="springboot" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="security-mybatis" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="springboot" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="config" />
+              <option name="myItemId" value="websocket" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -682,7 +410,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.24671385" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
@@ -710,11 +438,11 @@
       <recent name="F:\workspace\springboot\mybatis-mutil-datasource\src\main\resources\mapper\cluster" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\workspace\springboot\springboot-freemarker\src\main\resources\web" />
       <recent name="F:\workspace\springboot\security-mybatis\src\main\java\com\springboot\config" />
       <recent name="F:\workspace\springboot\security-mybatis\src\main\java\com\springboot\domain" />
       <recent name="F:\workspace\springboot\security-mybatis\src\main\resources\templates" />
       <recent name="F:\workspace\springboot\security-mybatis\src\main\resources\static\css" />
-      <recent name="F:\workspace\springboot\security-mybatis\src\main\resources" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.springboot.controller" />
@@ -729,85 +457,7 @@
       <recent name="com.springboot.controller" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MD5Util">
-    <configuration default="false" name="RedisObjectSerializerTest.redisObjectSerializerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.springboot.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="redis" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.springboot" />
-      <option name="MAIN_CLASS_NAME" value="com.springboot.RedisObjectSerializerTest" />
-      <option name="METHOD_NAME" value="redisObjectSerializerTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration default="false" name="ApplicationTest.queryAllCity" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.springboot.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="redis" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.springboot" />
-      <option name="MAIN_CLASS_NAME" value="com.springboot.ApplicationTest" />
-      <option name="METHOD_NAME" value="queryAllCity" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration default="false" name="UserServiceTest.findByName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.springboot.service.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="security" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.springboot.service" />
-      <option name="MAIN_CLASS_NAME" value="com.springboot.service.UserServiceTest" />
-      <option name="METHOD_NAME" value="findByName" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.Application">
     <configuration default="false" name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -845,6 +495,66 @@
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="security-mybatis" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="ThreadTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.test.thread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.test.thread.ThreadTest" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="security-mybatis" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="sequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.test.thread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.test.thread.sequence" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="security-mybatis" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Application (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.springboot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.springboot.Application" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="redis" />
       <envs />
       <method />
     </configuration>
@@ -1306,10 +1016,9 @@
     </configuration>
     <configuration default="false" name="springboot" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="springboot" ALTERNATIVE_JRE_ENABLED="false">
       <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
-      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
-      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
-        <artifact name="velocitydemo:war exploded">
+        <artifact name="springboot-freemarker:war exploded">
           <settings>
             <option name="CONTEXT_PATH" value="/" />
           </settings>
@@ -1317,6 +1026,7 @@
       </deployment>
       <server-settings>
         <option name="BASE_DIRECTORY_NAME" value="Unnamed_springboot" />
+        <option name="HTTP_PORT" value="9001" />
       </server-settings>
       <predefined_log_file id="Tomcat" enabled="true" />
       <predefined_log_file id="Tomcat Catalina" enabled="true" />
@@ -1375,26 +1085,26 @@
       <method>
         <option name="BuildArtifacts" enabled="true">
           <artifact name="velocity:war exploded" />
-          <artifact name="velocitydemo:war exploded" />
+          <artifact name="springboot-freemarker:war exploded" />
         </option>
       </method>
     </configuration>
     <list size="7">
       <item index="0" class="java.lang.String" itemvalue="Spring Boot.Application" />
       <item index="1" class="java.lang.String" itemvalue="Tomcat Server.springboot" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.RedisObjectSerializerTest.redisObjectSerializerTest" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.ApplicationTest.queryAllCity" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.UserServiceTest.findByName" />
-      <item index="5" class="java.lang.String" itemvalue="Application.Application" />
-      <item index="6" class="java.lang.String" itemvalue="Application.MD5Util" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Application" />
+      <item index="3" class="java.lang.String" itemvalue="Application.MD5Util" />
+      <item index="4" class="java.lang.String" itemvalue="Application.ThreadTest" />
+      <item index="5" class="java.lang.String" itemvalue="Application.sequence" />
+      <item index="6" class="java.lang.String" itemvalue="Application.Application (1)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.MD5Util" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Application" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.UserServiceTest.findByName" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.ApplicationTest.queryAllCity" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.RedisObjectSerializerTest.redisObjectSerializerTest" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Application" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Application (1)" />
+        <item index="2" class="java.lang.String" itemvalue="Application.ThreadTest" />
+        <item index="3" class="java.lang.String" itemvalue="Application.sequence" />
+        <item index="4" class="java.lang.String" itemvalue="Application.MD5Util" />
       </list>
     </recent_temporary>
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
@@ -1463,7 +1173,10 @@
       <workItem from="1502673740184" duration="28849000" />
       <workItem from="1502846371810" duration="154000" />
       <workItem from="1502869297451" duration="4299000" />
-      <workItem from="1502874869286" duration="40063000" />
+      <workItem from="1502874869286" duration="54698000" />
+      <workItem from="1503453011620" duration="12943000" />
+      <workItem from="1503896731878" duration="21320000" />
+      <workItem from="1504055694077" duration="3638000" />
     </task>
     <servers />
   </component>
@@ -1500,7 +1213,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="361137000" />
+    <option name="totallyTimeSpent" value="413673000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1516,29 +1229,28 @@
     <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36107194" sideWeight="0.50708765" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32863188" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25128865" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2822165" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.61918193" sideWeight="0.49484536" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32863188" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23695345" sideWeight="0.49291238" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32863188" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3822285" sideWeight="0.507732" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32863188" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25579897" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31170663" sideWeight="0.4974227" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32863188" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5148096" sideWeight="0.4974227" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26030928" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32925257" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28913963" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2822165" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30465445" sideWeight="0.49226806" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1549,6 +1261,7 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32925257" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28913963" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -1660,8 +1373,20 @@
           <properties />
           <option name="timeStamp" value="113" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.3.6.RELEASE/spring-webmvc-4.3.6.RELEASE-sources.jar!/org/springframework/web/servlet/DispatcherServlet.java</url>
+          <line>704</line>
+          <properties />
+          <option name="timeStamp" value="150" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/security-mybatis/src/main/java/com/springboot/service/MyInvocationSecurityMetadataSourceService.java</url>
+          <line>33</line>
+          <properties />
+          <option name="timeStamp" value="151" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="140" />
+      <option name="time" value="153" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory">
@@ -1669,9 +1394,10 @@
         <watch expression="((ArrayList) value).get(0)" language="JAVA" />
       </configuration>
       <configuration name="Application">
-        <watch expression="http.authorizeRequests()" />
-        <watch expression="env.getProperty(&quot;ms.db.url&quot;)" language="JAVA" />
-        <watch expression="MD5Util.encode((String)rawPassword)" />
+        <watch expression="request.getRequestURL()" language="JAVA" />
+        <watch expression="ga.getAuthority()" />
+        <watch expression="httpMethod" />
+        <watch expression="request.getMethod()" />
       </configuration>
     </watches-manager>
   </component>
@@ -1680,360 +1406,36 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/security-mybatis/src/main/resources/templates/login.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="37" column="49" selection-start-line="37" selection-start-column="44" selection-end-line="37" selection-end-column="49" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/security-mybatis/src/main/java/com/springboot/controller/HomeController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/4.2.3.RELEASE/spring-security-config-4.2.3.RELEASE.jar!/org/springframework/security/config/annotation/web/configurers/FormLoginConfigurer.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="23" column="43" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.2/mybatis-3.4.2-sources.jar!/org/apache/ibatis/annotations/Mapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="37" column="20" selection-start-line="37" selection-start-column="20" selection-end-line="37" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mybatis-annotation/src/main/java/com/springboot/domain/City.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mybatis-annotation/src/main/java/com/springboot/service/impl/CityServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis-spring/1.2.2/mybatis-spring-1.2.2.jar!/org/mybatis/spring/annotation/MapperScan.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="26" column="33" selection-start-line="26" selection-start-column="15" selection-end-line="26" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/jdk8/src.zip!/javax/sql/DataSource.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1">
-          <caret line="76" column="17" selection-start-line="76" selection-start-column="17" selection-end-line="76" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mybatis-mutil-datasource/src/main/java/com/springboot/Application.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mybatis-mutil-datasource/mybatis-mutil-datasource.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mybatis-mutil-datasource/src/main/java/com/springboot/dao/master/ICityDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="9" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/redis/src/main/java/com/springboot/Application.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/redis/src/main/java/com/springboot/domain/City.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/redis/src/main/resources/mapper/CityMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1501494702729" expanded="true" signature="1135:1229" ph="select from city" />
-            <marker date="1501494702729" expanded="true" signature="1310:1379" ph="select from city" />
-            <marker date="1501494702729" expanded="true" signature="1460:1529" ph="select from city" />
-            <marker date="1501494702729" expanded="true" signature="1641:1775" ph="insert into city" />
-            <marker date="1501494702729" expanded="true" signature="1848:2183" ph="update city " />
-            <marker date="1501494702729" expanded="true" signature="2267:2324" ph="delete from " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mybatis-annotation/src/main/java/com/springboot/Application.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mybatis-annotation/src/main/java/com/springboot/dao/CityDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mybatis-annotation/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/redis/src/main/java/com/springboot/config/RedisObjectSerializer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-200">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mybatis-mutil-datasource/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mybatis-mutil-datasource/src/main/java/com/springboot/dao/cluster/IUserDao.java">
+    <entry file="file://$PROJECT_DIR$/springboot-freemarker/src/main/resources/web/index.ftl">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="3" column="17" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="17" />
-          <folding />
+          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mybatis-mutil-datasource/src/main/java/com/springboot/service/impl/UserServiceImpl.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.3.6.RELEASE/spring-webmvc-4.3.6.RELEASE-sources.jar!/org/springframework/web/servlet/DispatcherServlet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-          <folding />
+        <state relative-caret-position="99">
+          <caret line="704" column="0" selection-start-line="704" selection-start-column="0" selection-end-line="704" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#57366#0" expanded="false" />
+            <element signature="e#23567#23568#0" expanded="false" />
+            <element signature="e#23597#23598#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/redis/src/main/java/com/springboot/config/RedisConfigSerializer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/redis/src/main/java/com/springboot/dao/CityDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/redis/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="8" selection-end-column="46" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/security-mybatis/src/main/java/com/springboot/service/CustomUserService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-45">
-          <caret line="22" column="4" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mybaits/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="31" column="36" selection-start-line="31" selection-start-column="36" selection-end-line="31" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mybaits/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mybaits/src/main/java/com/springboot/dao/CityDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mybaits/src/main/resources/mapper/CityMapper.xml">
+    <entry file="file://$PROJECT_DIR$/security-mybatis/src/main/webapp/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1498543101168" expanded="true" signature="765:872" ph="select from city" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mybatis-annotation/pom.xml">
+    <entry file="file://$PROJECT_DIR$/security-mybatis/src/main/resources/templates/login.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-300">
-          <caret line="12" column="10" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mybatis-mutil-datasource/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="17" column="29" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mybatis-mutil-datasource/src/main/java/com/springboot/dataSourceConfig/MasterConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-461">
-          <caret line="44" column="19" selection-start-line="44" selection-start-column="19" selection-end-line="44" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/security-mybatis/src/main/java/com/springboot/domain/SysRole.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/security-mybatis/src/main/resources/mapper/UserDaoMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="18" column="35" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
-          <folding>
-            <marker date="1503285822165" expanded="true" signature="661:849" ph="select u.* ,... Sys_User" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/4.2.3.RELEASE/spring-security-core-4.2.3.RELEASE.jar!/org/springframework/security/authentication/dao/DaoAuthenticationProvider.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="281">
-          <caret line="73" column="5" selection-start-line="73" selection-start-column="5" selection-end-line="73" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/security-mybatis/src/main/java/com/springboot/dao/UserDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/security-mybatis/src/main/java/com/springboot/config/TransactionConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-          <folding>
-            <marker date="1503285009906" expanded="true" signature="871:876" ph="//..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/security-mybatis/src/main/java/com/springboot/config/WebMvcConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="121">
-          <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/4.3.6.RELEASE/spring-core-4.3.6.RELEASE-sources.jar!/org/springframework/core/env/MutablePropertySources.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-599">
-          <caret line="70" column="26" selection-start-line="70" selection-start-column="4" selection-end-line="70" selection-end-column="26" />
-          <folding>
-            <element signature="e#2358#2359#0" expanded="false" />
-            <element signature="e#2385#2386#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/jdk8/src.zip!/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="62" column="33" selection-start-line="62" selection-start-column="33" selection-end-line="62" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/4.3.6.RELEASE/spring-core-4.3.6.RELEASE-sources.jar!/org/springframework/core/env/AbstractEnvironment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-550">
-          <caret line="110" column="50" selection-start-line="110" selection-start-column="50" selection-end-line="110" selection-end-column="50" />
-          <folding>
-            <element signature="e#20162#20163#0" expanded="false" />
-            <element signature="e#20214#20215#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/4.3.10.RELEASE/spring-core-4.3.10.RELEASE.jar!/org/springframework/core/env/PropertyResolver.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
-          <folding />
+        <state relative-caret-position="-525">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -2041,82 +1443,458 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/security-mybatis/src/main/resources/templates/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="45" column="0" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/security-mybatis/src/main/java/com/springboot/service/MyGrantedAuthority.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="389">
+          <caret line="38" column="13" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/security-mybatis/src/main/java/com/springboot/service/MyInvocationSecurityMetadataSourceService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="67" column="11" selection-start-line="67" selection-start-column="11" selection-end-line="67" selection-end-column="11" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/4.2.3.RELEASE/spring-security-core-4.2.3.RELEASE.jar!/org/springframework/security/access/prepost/PostInvocationAdviceProvider.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="27" column="18" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/4.2.3.RELEASE/spring-security-core-4.2.3.RELEASE.jar!/org/springframework/security/access/intercept/AfterInvocationProviderManager.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="42" column="95" selection-start-line="42" selection-start-column="89" selection-end-line="42" selection-end-column="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/security-mybatis/src/main/java/com/springboot/filters/MyFilterSecurityInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="50" column="33" selection-start-line="50" selection-start-column="18" selection-end-line="50" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.6.RELEASE/spring-web-4.3.6.RELEASE-sources.jar!/org/springframework/web/filter/RequestContextFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="113" column="72" selection-start-line="113" selection-start-column="72" selection-end-line="113" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/security-mybatis/src/main/java/com/springboot/domain/Msg.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/security-mybatis/src/main/java/com/springboot/domain/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="800">
+          <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/security-mybatis/src/main/java/com/springboot/config/MYConfig.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/4.2.3.RELEASE/spring-security-core-4.2.3.RELEASE.jar!/org/springframework/security/access/intercept/AbstractSecurityInterceptor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="104" column="70" selection-start-line="104" selection-start-column="70" selection-end-line="104" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/security-mybatis/src/main/java/com/springboot/service/MyAccessDecisionManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="35" column="51" selection-start-line="35" selection-start-column="51" selection-end-line="35" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#3454#3455#0" expanded="false" />
+            <element signature="e#3481#3482#0" expanded="false" />
+            <element signature="e#3542#3543#0" expanded="false" />
+            <element signature="e#3569#3570#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/security-mybatis/src/main/java/com/springboot/dao/UserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/security-mybatis/src/main/java/com/springboot/dao/PermissionDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/jdk8/src.zip!/java/lang/Iterable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="50" column="24" selection-start-line="50" selection-start-column="16" selection-end-line="50" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#2789#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#2712#2713#0" expanded="false" />
+            <element signature="e#2785#2786#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/jdk8/src.zip!/java/util/Collection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3950">
+          <caret line="183" column="57" selection-start-line="183" selection-start-column="57" selection-end-line="183" selection-end-column="57" />
+          <folding>
+            <element signature="e#0#27819#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#26270#26271#0" expanded="false" />
+            <element signature="e#26326#26327#0" expanded="false" />
+            <element signature="e#26957#26958#0" expanded="false" />
+            <element signature="e#27022#27023#0" expanded="false" />
+            <element signature="e#27751#27752#0" expanded="false" />
+            <element signature="e#27815#27816#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/jdk8/src.zip!/java/util/Queue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2750">
+          <caret line="143" column="39" selection-start-line="143" selection-start-column="39" selection-end-line="143" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#8063#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/jdk8/src.zip!/java/util/concurrent/LinkedBlockingDeque.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="86" column="37" selection-start-line="0" selection-start-column="0" selection-end-line="1333" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/jdk8/src.zip!/java/util/concurrent/BlockingDeque.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="199" column="17" selection-start-line="199" selection-start-column="17" selection-end-line="199" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/jdk8/src.zip!/java/util/concurrent/BlockingQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3550">
+          <caret line="176" column="19" selection-start-line="176" selection-start-column="19" selection-end-line="176" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#15739#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/security-mybatis/src/main/java/com/springboot/service/CustomUserService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        <state relative-caret-position="675">
+          <caret line="42" column="26" selection-start-line="42" selection-start-column="26" selection-end-line="42" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/jdk8/src.zip!/java/util/concurrent/ArrayBlockingQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="286" column="36" selection-start-line="286" selection-start-column="36" selection-end-line="286" selection-end-column="36" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/security-mybatis/src/main/java/com/springboot/Application.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="14" column="54" selection-start-line="14" selection-start-column="54" selection-end-line="14" selection-end-column="54" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#448#449#0" expanded="true" />
-            <element signature="e#509#510#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="225">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/security-mybatis/src/main/java/com/springboot/config/WebSecurityConfig.java">
+    <entry file="file://$PROJECT_DIR$/security-mybatis/src/main/java/com/springboot/config/DBconfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="36" column="57" selection-start-line="36" selection-start-column="57" selection-end-line="36" selection-end-column="57" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/security-mybatis/src/main/java/com/springboot/utils/MD5Util.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="419">
-          <caret line="28" column="48" selection-start-line="28" selection-start-column="48" selection-end-line="28" selection-end-column="48" />
+        <state relative-caret-position="25">
+          <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/security-mybatis/src/main/java/com/springboot/config/MyBatisConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="18" column="3" selection-start-line="18" selection-start-column="3" selection-end-line="25" selection-end-column="5" />
-          <folding>
-            <marker date="1503285009899" expanded="true" signature="1002:1007" ph="//..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/security-mybatis/src/main/java/com/springboot/config/DBconfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="37" column="2" selection-start-line="37" selection-start-column="2" selection-end-line="37" selection-end-column="2" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="150">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/security-mybatis/src/main/java/com/springboot/config/MyBatisScannerConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding>
-            <marker date="1503285009901" expanded="true" signature="610:615" ph="//..." />
-          </folding>
+        <state relative-caret-position="125">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/security-mybatis/pom.xml">
+    <entry file="file://$PROJECT_DIR$/security-mybatis/src/main/java/com/springboot/config/TransactionConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="18" column="58" selection-start-line="18" selection-start-column="58" selection-end-line="18" selection-end-column="58" />
+        <state relative-caret-position="150">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/security-mybatis/src/main/java/com/springboot/config/WebMvcConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.10.RELEASE/spring-context-4.3.10.RELEASE.jar!/org/springframework/stereotype/Repository.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="18" column="28" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/1.13.6.RELEASE/spring-data-commons-1.13.6.RELEASE.jar!/org/springframework/data/domain/Page.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="15" column="58" selection-start-line="15" selection-start-column="58" selection-end-line="15" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://MAVEN/org.springframework.boot:springboot-Spring-data-jpa:1.5.6.RELEASE">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MAVEN</ID>
+          <OriginalElement>org.springframework.boot:springboot-Spring-data-jpa:1.5.6.RELEASE</OriginalElement>
+          <nodes>
+            <node x="" y="">org.springframework.boot:springboot-Spring-data-jpa:1.5.6.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.5.6.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.5.6.RELEASE/org.springframework.boot:spring-boot-starter:jar:1.5.6.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.5.6.RELEASE/org.springframework.boot:spring-boot-starter:jar:1.5.6.RELEASE/org.springframework.boot:spring-boot:jar:1.5.6.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.5.6.RELEASE/org.springframework.boot:spring-boot-starter:jar:1.5.6.RELEASE/org.springframework.boot:spring-boot-autoconfigure:jar:1.5.6.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.5.6.RELEASE/org.springframework.boot:spring-boot-starter:jar:1.5.6.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.6.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.5.6.RELEASE/org.springframework.boot:spring-boot-starter:jar:1.5.6.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.6.RELEASE/ch.qos.logback:logback-classic:jar:1.1.11</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.5.6.RELEASE/org.springframework.boot:spring-boot-starter:jar:1.5.6.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.6.RELEASE/ch.qos.logback:logback-classic:jar:1.1.11/ch.qos.logback:logback-core:jar:1.1.11</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.5.6.RELEASE/org.springframework.boot:spring-boot-starter:jar:1.5.6.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.6.RELEASE/org.slf4j:jul-to-slf4j:jar:1.7.25</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.5.6.RELEASE/org.springframework.boot:spring-boot-starter:jar:1.5.6.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.6.RELEASE/org.slf4j:log4j-over-slf4j:jar:1.7.25</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.5.6.RELEASE/org.springframework.boot:spring-boot-starter:jar:1.5.6.RELEASE/org.yaml:snakeyaml:jar:1.17</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.5.6.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:1.5.6.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.5.6.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:1.5.6.RELEASE/org.apache.tomcat.embed:tomcat-embed-core:jar:8.5.16</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.5.6.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:1.5.6.RELEASE/org.apache.tomcat.embed:tomcat-embed-el:jar:8.5.16</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.5.6.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:1.5.6.RELEASE/org.apache.tomcat.embed:tomcat-embed-websocket:jar:8.5.16</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.5.6.RELEASE/org.hibernate:hibernate-validator:jar:5.3.5.Final</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.5.6.RELEASE/org.hibernate:hibernate-validator:jar:5.3.5.Final/javax.validation:validation-api:jar:1.1.0.Final</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.5.6.RELEASE/org.hibernate:hibernate-validator:jar:5.3.5.Final/org.jboss.logging:jboss-logging:jar:3.3.1.Final</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.5.6.RELEASE/org.hibernate:hibernate-validator:jar:5.3.5.Final/com.fasterxml:classmate:jar:1.3.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.5.6.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.8.9</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.5.6.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.8.9/com.fasterxml.jackson.core:jackson-annotations:jar:2.8.0</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.5.6.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.8.9/com.fasterxml.jackson.core:jackson-core:jar:2.8.9</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.5.6.RELEASE/org.springframework:spring-web:jar:4.3.10.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.5.6.RELEASE/org.springframework:spring-web:jar:4.3.10.RELEASE/org.springframework:spring-aop:jar:4.3.10.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.5.6.RELEASE/org.springframework:spring-web:jar:4.3.10.RELEASE/org.springframework:spring-beans:jar:4.3.10.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.5.6.RELEASE/org.springframework:spring-web:jar:4.3.10.RELEASE/org.springframework:spring-context:jar:4.3.10.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.5.6.RELEASE/org.springframework:spring-webmvc:jar:4.3.10.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.5.6.RELEASE/org.springframework:spring-webmvc:jar:4.3.10.RELEASE/org.springframework:spring-expression:jar:4.3.10.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:1.5.6.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:1.5.6.RELEASE/org.springframework.boot:spring-boot-test:jar:1.5.6.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:1.5.6.RELEASE/org.springframework.boot:spring-boot-test-autoconfigure:jar:1.5.6.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:1.5.6.RELEASE/com.jayway.jsonpath:json-path:jar:2.2.0</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:1.5.6.RELEASE/com.jayway.jsonpath:json-path:jar:2.2.0/net.minidev:json-smart:jar:2.2.1</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:1.5.6.RELEASE/com.jayway.jsonpath:json-path:jar:2.2.0/net.minidev:json-smart:jar:2.2.1/net.minidev:accessors-smart:jar:1.1</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:1.5.6.RELEASE/com.jayway.jsonpath:json-path:jar:2.2.0/net.minidev:json-smart:jar:2.2.1/net.minidev:accessors-smart:jar:1.1/org.ow2.asm:asm:jar:5.0.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:1.5.6.RELEASE/com.jayway.jsonpath:json-path:jar:2.2.0/org.slf4j:slf4j-api:jar:1.7.25</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:1.5.6.RELEASE/org.assertj:assertj-core:jar:2.6.0</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:1.5.6.RELEASE/org.mockito:mockito-core:jar:1.10.19</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:1.5.6.RELEASE/org.mockito:mockito-core:jar:1.10.19/org.objenesis:objenesis:jar:2.1</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:1.5.6.RELEASE/org.hamcrest:hamcrest-core:jar:1.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:1.5.6.RELEASE/org.hamcrest:hamcrest-library:jar:1.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:1.5.6.RELEASE/org.skyscreamer:jsonassert:jar:1.4.0</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:1.5.6.RELEASE/org.skyscreamer:jsonassert:jar:1.4.0/com.vaadin.external.google:android-json:jar:0.0.20131108.vaadin1</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:1.5.6.RELEASE/org.springframework:spring-core:jar:4.3.10.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:1.5.6.RELEASE/org.springframework:spring-test:jar:4.3.10.RELEASE</node>
+            <node x="" y="">mysql:mysql-connector-java:jar:5.1.8</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-data-jpa:jar:1.5.6.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-data-jpa:jar:1.5.6.RELEASE/org.springframework.boot:spring-boot-starter-aop:jar:1.5.6.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-data-jpa:jar:1.5.6.RELEASE/org.springframework.boot:spring-boot-starter-aop:jar:1.5.6.RELEASE/org.aspectj:aspectjweaver:jar:1.8.10</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-data-jpa:jar:1.5.6.RELEASE/org.springframework.boot:spring-boot-starter-jdbc:jar:1.5.6.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-data-jpa:jar:1.5.6.RELEASE/org.springframework.boot:spring-boot-starter-jdbc:jar:1.5.6.RELEASE/org.apache.tomcat:tomcat-jdbc:jar:8.5.16</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-data-jpa:jar:1.5.6.RELEASE/org.springframework.boot:spring-boot-starter-jdbc:jar:1.5.6.RELEASE/org.apache.tomcat:tomcat-jdbc:jar:8.5.16/org.apache.tomcat:tomcat-juli:jar:8.5.16</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-data-jpa:jar:1.5.6.RELEASE/org.springframework.boot:spring-boot-starter-jdbc:jar:1.5.6.RELEASE/org.springframework:spring-jdbc:jar:4.3.10.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-data-jpa:jar:1.5.6.RELEASE/org.hibernate:hibernate-core:jar:5.0.12.Final</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-data-jpa:jar:1.5.6.RELEASE/org.hibernate:hibernate-core:jar:5.0.12.Final/org.hibernate.javax.persistence:hibernate-jpa-2.1-api:jar:1.0.0.Final</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-data-jpa:jar:1.5.6.RELEASE/org.hibernate:hibernate-core:jar:5.0.12.Final/org.javassist:javassist:jar:3.21.0-GA</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-data-jpa:jar:1.5.6.RELEASE/org.hibernate:hibernate-core:jar:5.0.12.Final/antlr:antlr:jar:2.7.7</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-data-jpa:jar:1.5.6.RELEASE/org.hibernate:hibernate-core:jar:5.0.12.Final/org.jboss:jandex:jar:2.0.0.Final</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-data-jpa:jar:1.5.6.RELEASE/org.hibernate:hibernate-core:jar:5.0.12.Final/dom4j:dom4j:jar:1.6.1</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-data-jpa:jar:1.5.6.RELEASE/org.hibernate:hibernate-core:jar:5.0.12.Final/org.hibernate.common:hibernate-commons-annotations:jar:5.0.1.Final</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-data-jpa:jar:1.5.6.RELEASE/org.hibernate:hibernate-entitymanager:jar:5.0.12.Final</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-data-jpa:jar:1.5.6.RELEASE/javax.transaction:javax.transaction-api:jar:1.2</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-data-jpa:jar:1.5.6.RELEASE/org.springframework.data:spring-data-jpa:jar:1.11.6.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-data-jpa:jar:1.5.6.RELEASE/org.springframework.data:spring-data-jpa:jar:1.11.6.RELEASE/org.springframework.data:spring-data-commons:jar:1.13.6.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-data-jpa:jar:1.5.6.RELEASE/org.springframework.data:spring-data-jpa:jar:1.11.6.RELEASE/org.springframework:spring-orm:jar:4.3.10.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-data-jpa:jar:1.5.6.RELEASE/org.springframework.data:spring-data-jpa:jar:1.11.6.RELEASE/org.springframework:spring-tx:jar:4.3.10.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-data-jpa:jar:1.5.6.RELEASE/org.springframework.data:spring-data-jpa:jar:1.11.6.RELEASE/org.slf4j:jcl-over-slf4j:jar:1.7.25</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-data-jpa:jar:1.5.6.RELEASE/org.springframework:spring-aspects:jar:4.3.10.RELEASE</node>
+            <node x="" y="">junit:junit:jar:4.12</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.9302794481782809" x="1067.1579527738697" y="937.8948629225446" />
+          <SelectedNodes />
+          <Categories />
+          <VISIBILITY>All</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/1.13.0.RELEASE/spring-data-commons-1.13.0.RELEASE-sources.jar!/org/springframework/data/repository/CrudRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="469">
+          <caret line="114" column="1" selection-start-line="114" selection-start-column="1" selection-end-line="114" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/1.13.6.RELEASE/spring-data-commons-1.13.6.RELEASE.jar!/org/springframework/data/repository/Repository.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="9" column="27" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/1.13.6.RELEASE/spring-data-commons-1.13.6.RELEASE.jar!/org/springframework/data/repository/CrudRepository.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/1.13.6.RELEASE/spring-data-commons-1.13.6.RELEASE.jar!/org/springframework/data/repository/PagingAndSortingRepository.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="15" column="84" selection-start-line="15" selection-start-column="84" selection-end-line="15" selection-end-column="84" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-jpa/1.11.6.RELEASE/spring-data-jpa-1.11.6.RELEASE.jar!/org/springframework/data/jpa/repository/JpaRepository.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="16" column="78" selection-start-line="16" selection-start-column="78" selection-end-line="16" selection-end-column="78" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spring-data-jpa/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="33" column="48" selection-start-line="33" selection-start-column="44" selection-end-line="33" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spring-data-jpa/src/main/java/com/springboot/dao/ICityDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spring-data-jpa/src/main/java/com/springboot/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spring-data-jpa/src/main/java/com/springboot/domain/City.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spring-data-jpa/src/main/java/com/springboot/service/impl/CityServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="34" column="26" selection-start-line="34" selection-start-column="26" selection-end-line="34" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spring-data-jpa/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="37" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/security-mybatis/src/main/java/com/springboot/controller/HomeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="19" column="20" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thymeleaf/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="21" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/websocket/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="894">
+          <caret line="54" column="10" selection-start-line="54" selection-start-column="10" selection-end-line="54" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/security-mybatis/src/main/java/com/springboot/config/WebSecurityConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="48" column="0" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
           <folding />
         </state>
       </provider>

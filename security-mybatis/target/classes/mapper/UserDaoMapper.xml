@@ -8,8 +8,8 @@
         <collection property="roles" ofType="com.springboot.domain.SysRole">
             <result column="NAME" property="name"/>
         </collection>
-
     </resultMap>
+
     <select id="findByUserName" parameterType="String" resultMap="userMap">
 		select u.*
 		,r.name

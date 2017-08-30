@@ -27,6 +27,7 @@
     <file type="web" url="file://$PROJECT_DIR$/validation-over-json" />
     <file type="web" url="file://$PROJECT_DIR$/velocity" />
     <file type="web" url="file://$PROJECT_DIR$/velocitydemo" />
+    <file type="web" url="file://$PROJECT_DIR$/websocket" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">

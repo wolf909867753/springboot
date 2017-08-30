@@ -3,6 +3,7 @@ package com.springboot.domain;
 import java.util.List;
 
 /**
+ * 用户信息表
  * Created by wanglu on 17/8/17.
  */
 

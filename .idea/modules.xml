@@ -24,6 +24,7 @@
       <module fileurl="file://$PROJECT_DIR$/thymeleaf/thymeleaf.iml" filepath="$PROJECT_DIR$/thymeleaf/thymeleaf.iml" />
       <module fileurl="file://$PROJECT_DIR$/validation-over-json/validation-over-json.iml" filepath="$PROJECT_DIR$/validation-over-json/validation-over-json.iml" />
       <module fileurl="file://$PROJECT_DIR$/velocitydemo/velocitydemo.iml" filepath="$PROJECT_DIR$/velocitydemo/velocitydemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/websocket/websocket.iml" filepath="$PROJECT_DIR$/websocket/websocket.iml" />
     </modules>
   </component>
 </project>

@@ -1,6 +1,7 @@
 package com.springboot.domain;
 
 /**
+ * 角色信息表
  * Created by wanglu on 17/8/17.
  */
 

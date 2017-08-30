@@ -44,6 +44,7 @@
         <module name="validation-over-json" />
         <module name="velocity" />
         <module name="velocitydemo" />
+        <module name="websocket" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.7">
@@ -68,6 +69,7 @@
       <module name="thymeleaf" target="1.7" />
       <module name="validation-over-json" target="1.7" />
       <module name="velocitydemo" target="1.7" />
+      <module name="websocket" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>
