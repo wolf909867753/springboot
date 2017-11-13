@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Spring-data-jpa/Spring-data-jpa.iml" filepath="$PROJECT_DIR$/Spring-data-jpa/Spring-data-jpa.iml" />
-      <module fileurl="file://$PROJECT_DIR$/freemarker/freemarker.iml" filepath="$PROJECT_DIR$/freemarker/freemarker.iml" />
+      <module fileurl="file://D:\gitHub\springboot\freemarker\freemarker.iml" filepath="D:\gitHub\springboot\freemarker\freemarker.iml" />
       <module fileurl="file://$PROJECT_DIR$/helloWorld/helloWorld.iml" filepath="$PROJECT_DIR$/helloWorld/helloWorld.iml" />
       <module fileurl="file://$PROJECT_DIR$/jdbc/jdbc.iml" filepath="$PROJECT_DIR$/jdbc/jdbc.iml" />
       <module fileurl="file://$PROJECT_DIR$/jdbc-mutil-datasource/jdbc-mutil-datasource.iml" filepath="$PROJECT_DIR$/jdbc-mutil-datasource/jdbc-mutil-datasource.iml" />
