@@ -1,29 +1,26 @@
-target/
-!.mvn/wrapper/maven-wrapper.jar
-
-### STS ###
-.apt_generated
+# Created by lance .ignore support plugin (hsz.mobi)
+*.class
 .classpath
-.factorypath
 .project
 .settings
-.springBeans
-
-### IntelliJ IDEA ###
+.metadata
+*stdout.log
+*debug.log
+.gradle
 .idea
-.idea/
-*.iws
-*.iml
-*.ipr
-.iml
-.ipr
-.iws
-.class
 
-### NetBeans ###
-nbproject/private/
-build/
-nbbuild/
-dist/
-nbdist/
-.nb-gradle/
+
+# Package Files #
+/**/build
+/**/target
+*.iml
+*.war
+*.ear
+/target/*
+/bin/*
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+ServiceBin
+/target/
+/logs/
+LOG_PATH_IS_UNDEFINEDLOG_FILE_IS_UNDEFINED
